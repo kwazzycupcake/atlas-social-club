@@ -1,0 +1,211 @@
+.page:global(.page) {
+  max-width: 1480px;
+}
+.page {
+  position: relative;
+}
+
+/* ---------- top bar (matches Map Hunt) ---------- */
+.topBar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px 16px;
+  flex-wrap: wrap;
+  padding: 8px 0 34px;
+}
+.titleRow {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-width: 0;
+}
+.home {
+  display: grid;
+}
+.back {
+  flex: none;
+  width: 44px;
+  height: 44px;
+  display: grid;
+  place-items: center;
+  border: 2px solid var(--game-frame);
+  border-radius: 999px;
+  background: var(--card);
+  box-shadow: 0 3px 0 var(--game-frame);
+}
+.kicker {
+  color: var(--game-title);
+}
+.title {
+  font-size: clamp(26px, 3.4vw, 42px);
+  overflow-wrap: anywhere;
+}
+.chips {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+/* ---------- the board ---------- */
+.board {
+  position: relative;
+}
+.hint {
+  position: absolute;
+  z-index: 3;
+  left: 26px;
+  top: -26px;
+  max-width: calc(100% - 52px);
+  margin: 0;
+  padding: 10px 22px;
+  border: 2px solid var(--game-frame);
+  border-radius: 999px;
+  background: var(--card);
+  box-shadow: 0 4px 0 var(--game-frame);
+  font-weight: 800;
+  font-size: 17px;
+}
+.hint b {
+  color: var(--coral-ink);
+}
+.mapFrame {
+  position: relative;
+  padding: 4px;
+  border: 2px solid var(--game-frame);
+  border-radius: 30px;
+  background: var(--card);
+  box-shadow: 0 6px 0 var(--game-frame);
+}
+.mapBox {
+  position: relative;
+  height: clamp(420px, calc(100svh - 190px), 1000px);
+  border-radius: 25px;
+  overflow: hidden;
+  background: var(--game-sea);
+}
+.loading {
+  height: 100%;
+  display: grid;
+  place-items: center;
+  font-size: 30px;
+}
+.zoomBtns {
+  position: absolute;
+  right: 18px;
+  bottom: 96px; /* clear of the hills and trees in the corner */
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.zoomBtns button {
+  width: 44px;
+  height: 44px;
+  border: 2px solid var(--game-frame);
+  border-radius: 14px;
+  background: var(--card);
+  box-shadow: 0 3px 0 var(--game-frame);
+  font-weight: 800;
+  font-size: 22px;
+  color: var(--ink);
+  cursor: pointer;
+}
+
+/* ---------- win card ---------- */
+.card {
+  position: relative;
+  margin-top: 60px; /* clear of the hills */
+  padding: clamp(20px, 3vw, 30px);
+  border: 2.5px solid var(--ink);
+  border-radius: 22px;
+  background: var(--card);
+  box-shadow: inset 0 0 0 6px var(--card), inset 0 0 0 7.5px var(--ink), var(--shadow-l);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  animation: rise 420ms var(--ease-bounce);
+}
+@keyframes rise {
+  from { transform: translateY(20px) scale(0.97); opacity: 0; }
+}
+.cardTop {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.flag {
+  flex: none;
+  width: 120px;
+  padding: 6px;
+  border: 5px dotted var(--paper);
+  background: var(--card);
+  box-shadow: 0 0 0 1px #e2d2b2, 3px 4px 0 rgba(59, 51, 85, 0.18);
+  transform: rotate(-3deg);
+}
+.cardText {
+  flex: 1 1 280px;
+  min-width: 0;
+}
+.cardTitle {
+  font-size: clamp(28px, 3.6vw, 40px);
+}
+.cardLine {
+  margin-top: 6px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.stamp {
+  flex: none;
+}
+.next {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-top: 16px;
+  border-top: 2px dashed var(--rule);
+}
+.choices {
+  display: flex;
+  gap: 12px 16px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.homeLink {
+  font-weight: 800;
+}
+.small {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--ink-soft);
+}
+
+@media (max-width: 640px) {
+  .home {
+    display: none;
+  }
+  .mapBox {
+    height: max(320px, calc(100svh - 250px));
+  }
+  .hint {
+    left: 12px;
+    max-width: calc(100% - 24px);
+    font-size: 15px;
+    padding: 8px 16px;
+  }
+  .zoomBtns {
+    bottom: 60px;
+  }
+  .stamp {
+    display: none !important;
+  }
+  .flag {
+    width: 84px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .card {
+    animation: none;
+  }
+}

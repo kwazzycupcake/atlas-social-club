@@ -1,0 +1,7589 @@
+[
+ {
+  "code": "AFG",
+  "iso2": "AF",
+  "isoNumeric": "004",
+  "name": "Afghanistan",
+  "officialName": "Islamic Republic of Afghanistan",
+  "aliases": [
+   "Islamic Republic of Afghanistan",
+   "Afġānistān"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Southern Asia",
+  "capitals": [
+   "Kabul"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   33,
+   65
+  ],
+  "areaKm2": 652230,
+  "featureIds": [
+   "004"
+  ],
+  "marker": false,
+  "flag": "/flags/af.svg",
+  "unMember": true,
+  "color": 9,
+  "neighbors": [
+   "CHN",
+   "IRN",
+   "PAK",
+   "TJK",
+   "TKM",
+   "UZB"
+  ]
+ },
+ {
+  "code": "ALB",
+  "iso2": "AL",
+  "isoNumeric": "008",
+  "name": "Albania",
+  "officialName": "Republic of Albania",
+  "aliases": [
+   "Republic of Albania",
+   "Shqipëri",
+   "Shqipëria",
+   "Shqipnia"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Southeast Europe",
+  "capitals": [
+   "Tirana"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   41,
+   20
+  ],
+  "areaKm2": 28748,
+  "featureIds": [
+   "008"
+  ],
+  "marker": false,
+  "flag": "/flags/al.svg",
+  "unMember": true,
+  "color": 8,
+  "neighbors": [
+   "GRC",
+   "MKD",
+   "MNE",
+   "UNK"
+  ]
+ },
+ {
+  "code": "DZA",
+  "iso2": "DZ",
+  "isoNumeric": "012",
+  "name": "Algeria",
+  "officialName": "People's Democratic Republic of Algeria",
+  "aliases": [
+   "People's Democratic Republic of Algeria",
+   "Dzayer",
+   "Algérie"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Northern Africa",
+  "capitals": [
+   "Algiers"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   28,
+   3
+  ],
+  "areaKm2": 2381741,
+  "featureIds": [
+   "012"
+  ],
+  "marker": false,
+  "flag": "/flags/dz.svg",
+  "unMember": true,
+  "color": 6,
+  "neighbors": [
+   "LBY",
+   "MAR",
+   "MLI",
+   "MRT",
+   "NER",
+   "TUN"
+  ]
+ },
+ {
+  "code": "AND",
+  "iso2": "AD",
+  "isoNumeric": "020",
+  "name": "Andorra",
+  "officialName": "Principality of Andorra",
+  "aliases": [
+   "Principality of Andorra",
+   "Principat d'Andorra"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Southern Europe",
+  "capitals": [
+   "Andorra la Vella"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   42.5,
+   1.5
+  ],
+  "areaKm2": 468,
+  "featureIds": [
+   "020"
+  ],
+  "marker": true,
+  "flag": "/flags/ad.svg",
+  "unMember": true,
+  "color": 4,
+  "neighbors": [
+   "ESP",
+   "FRA"
+  ]
+ },
+ {
+  "code": "AGO",
+  "iso2": "AO",
+  "isoNumeric": "024",
+  "name": "Angola",
+  "officialName": "Republic of Angola",
+  "aliases": [
+   "Republic of Angola",
+   "República de Angola",
+   "ʁɛpublika de an'ɡɔla"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Middle Africa",
+  "capitals": [
+   "Luanda"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -12.5,
+   18.5
+  ],
+  "areaKm2": 1246700,
+  "featureIds": [
+   "024"
+  ],
+  "marker": false,
+  "flag": "/flags/ao.svg",
+  "unMember": true,
+  "color": 6,
+  "neighbors": [
+   "COD",
+   "COG",
+   "NAM",
+   "ZMB"
+  ]
+ },
+ {
+  "code": "ATG",
+  "iso2": "AG",
+  "isoNumeric": "028",
+  "name": "Antigua and Barbuda",
+  "officialName": "Antigua and Barbuda",
+  "aliases": [],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Caribbean",
+  "capitals": [
+   "St. John's"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   17.05,
+   -61.8
+  ],
+  "areaKm2": 442,
+  "featureIds": [
+   "028"
+  ],
+  "marker": true,
+  "flag": "/flags/ag.svg",
+  "unMember": true,
+  "color": 7,
+  "neighbors": []
+ },
+ {
+  "code": "ARG",
+  "iso2": "AR",
+  "isoNumeric": "032",
+  "name": "Argentina",
+  "officialName": "Argentine Republic",
+  "aliases": [
+   "Argentine Republic",
+   "República Argentina"
+  ],
+  "continents": [
+   "south-america"
+  ],
+  "subregion": "South America",
+  "capitals": [
+   "Buenos Aires"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -34,
+   -64
+  ],
+  "areaKm2": 2780400,
+  "featureIds": [
+   "032"
+  ],
+  "marker": false,
+  "flag": "/flags/ar.svg",
+  "unMember": true,
+  "color": 4,
+  "neighbors": [
+   "BOL",
+   "BRA",
+   "CHL",
+   "PRY",
+   "URY"
+  ]
+ },
+ {
+  "code": "ARM",
+  "iso2": "AM",
+  "isoNumeric": "051",
+  "name": "Armenia",
+  "officialName": "Republic of Armenia",
+  "aliases": [
+   "Republic of Armenia",
+   "Hayastan",
+   "Հայաստանի Հանրապետություն"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Western Asia",
+  "capitals": [
+   "Yerevan"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   40,
+   45
+  ],
+  "areaKm2": 29743,
+  "featureIds": [
+   "051"
+  ],
+  "marker": false,
+  "flag": "/flags/am.svg",
+  "unMember": true,
+  "color": 4,
+  "neighbors": [
+   "AZE",
+   "GEO",
+   "IRN",
+   "TUR"
+  ]
+ },
+ {
+  "code": "AUS",
+  "iso2": "AU",
+  "isoNumeric": "036",
+  "name": "Australia",
+  "officialName": "Commonwealth of Australia",
+  "aliases": [
+   "Commonwealth of Australia"
+  ],
+  "continents": [
+   "oceania"
+  ],
+  "subregion": "Australia and New Zealand",
+  "capitals": [
+   "Canberra"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -27,
+   133
+  ],
+  "areaKm2": 7692024,
+  "featureIds": [
+   "036"
+  ],
+  "marker": false,
+  "flag": "/flags/au.svg",
+  "unMember": true,
+  "color": 0,
+  "neighbors": []
+ },
+ {
+  "code": "AUT",
+  "iso2": "AT",
+  "isoNumeric": "040",
+  "name": "Austria",
+  "officialName": "Republic of Austria",
+  "aliases": [
+   "Republic of Austria",
+   "Osterreich",
+   "Oesterreich"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Central Europe",
+  "capitals": [
+   "Vienna"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   47.33333333,
+   13.33333333
+  ],
+  "areaKm2": 83871,
+  "featureIds": [
+   "040"
+  ],
+  "marker": false,
+  "flag": "/flags/at.svg",
+  "unMember": true,
+  "color": 1,
+  "neighbors": [
+   "CHE",
+   "CZE",
+   "DEU",
+   "HUN",
+   "ITA",
+   "LIE",
+   "SVK",
+   "SVN"
+  ]
+ },
+ {
+  "code": "AZE",
+  "iso2": "AZ",
+  "isoNumeric": "031",
+  "name": "Azerbaijan",
+  "officialName": "Republic of Azerbaijan",
+  "aliases": [
+   "Republic of Azerbaijan",
+   "Azərbaycan Respublikası"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Western Asia",
+  "capitals": [
+   "Baku"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   40.5,
+   47.5
+  ],
+  "areaKm2": 86600,
+  "featureIds": [
+   "031"
+  ],
+  "marker": false,
+  "flag": "/flags/az.svg",
+  "unMember": true,
+  "color": 3,
+  "neighbors": [
+   "ARM",
+   "GEO",
+   "IRN",
+   "RUS",
+   "TUR"
+  ]
+ },
+ {
+  "code": "BHS",
+  "iso2": "BS",
+  "isoNumeric": "044",
+  "name": "Bahamas",
+  "officialName": "Commonwealth of the Bahamas",
+  "aliases": [
+   "Commonwealth of the Bahamas"
+  ],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Caribbean",
+  "capitals": [
+   "Nassau"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   24.25,
+   -76
+  ],
+  "areaKm2": 13943,
+  "featureIds": [
+   "044"
+  ],
+  "marker": false,
+  "flag": "/flags/bs.svg",
+  "unMember": true,
+  "color": 6,
+  "neighbors": []
+ },
+ {
+  "code": "BHR",
+  "iso2": "BH",
+  "isoNumeric": "048",
+  "name": "Bahrain",
+  "officialName": "Kingdom of Bahrain",
+  "aliases": [
+   "Kingdom of Bahrain",
+   "Mamlakat al-Baḥrayn"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Western Asia",
+  "capitals": [
+   "Manama"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   26,
+   50.55
+  ],
+  "areaKm2": 765,
+  "featureIds": [
+   "048"
+  ],
+  "marker": true,
+  "flag": "/flags/bh.svg",
+  "unMember": true,
+  "color": 8,
+  "neighbors": []
+ },
+ {
+  "code": "BGD",
+  "iso2": "BD",
+  "isoNumeric": "050",
+  "name": "Bangladesh",
+  "officialName": "People's Republic of Bangladesh",
+  "aliases": [
+   "People's Republic of Bangladesh",
+   "Gônôprôjatôntri Bangladesh"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Southern Asia",
+  "capitals": [
+   "Dhaka"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   24,
+   90
+  ],
+  "areaKm2": 147570,
+  "featureIds": [
+   "050"
+  ],
+  "marker": false,
+  "flag": "/flags/bd.svg",
+  "unMember": true,
+  "color": 5,
+  "neighbors": [
+   "IND",
+   "MMR"
+  ]
+ },
+ {
+  "code": "BRB",
+  "iso2": "BB",
+  "isoNumeric": "052",
+  "name": "Barbados",
+  "officialName": "Barbados",
+  "aliases": [],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Caribbean",
+  "capitals": [
+   "Bridgetown"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   13.16666666,
+   -59.53333333
+  ],
+  "areaKm2": 430,
+  "featureIds": [
+   "052"
+  ],
+  "marker": true,
+  "flag": "/flags/bb.svg",
+  "unMember": true,
+  "color": 1,
+  "neighbors": []
+ },
+ {
+  "code": "BLR",
+  "iso2": "BY",
+  "isoNumeric": "112",
+  "name": "Belarus",
+  "officialName": "Republic of Belarus",
+  "aliases": [
+   "Republic of Belarus",
+   "Bielaruś",
+   "Белоруссия",
+   "Республика Белоруссия"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Eastern Europe",
+  "capitals": [
+   "Minsk"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   53,
+   28
+  ],
+  "areaKm2": 207600,
+  "featureIds": [
+   "112"
+  ],
+  "marker": false,
+  "flag": "/flags/by.svg",
+  "unMember": true,
+  "color": 4,
+  "neighbors": [
+   "LTU",
+   "LVA",
+   "POL",
+   "RUS",
+   "UKR"
+  ]
+ },
+ {
+  "code": "BEL",
+  "iso2": "BE",
+  "isoNumeric": "056",
+  "name": "Belgium",
+  "officialName": "Kingdom of Belgium",
+  "aliases": [
+   "Kingdom of Belgium",
+   "België",
+   "Belgie",
+   "Belgien",
+   "Belgique",
+   "Koninkrijk België",
+   "Royaume de Belgique",
+   "Königreich Belgien"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Western Europe",
+  "capitals": [
+   "Brussels"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   50.83333333,
+   4
+  ],
+  "areaKm2": 30528,
+  "featureIds": [
+   "056"
+  ],
+  "marker": false,
+  "flag": "/flags/be.svg",
+  "unMember": true,
+  "color": 10,
+  "neighbors": [
+   "DEU",
+   "FRA",
+   "LUX",
+   "NLD"
+  ]
+ },
+ {
+  "code": "BLZ",
+  "iso2": "BZ",
+  "isoNumeric": "084",
+  "name": "Belize",
+  "officialName": "Belize",
+  "aliases": [],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Central America",
+  "capitals": [
+   "Belmopan"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   17.25,
+   -88.75
+  ],
+  "areaKm2": 22966,
+  "featureIds": [
+   "084"
+  ],
+  "marker": false,
+  "flag": "/flags/bz.svg",
+  "unMember": true,
+  "color": 8,
+  "neighbors": [
+   "GTM",
+   "MEX"
+  ]
+ },
+ {
+  "code": "BEN",
+  "iso2": "BJ",
+  "isoNumeric": "204",
+  "name": "Benin",
+  "officialName": "Republic of Benin",
+  "aliases": [
+   "Republic of Benin",
+   "République du Bénin"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Western Africa",
+  "capitals": [
+   "Porto-Novo"
+  ],
+  "capitalNote": "Porto-Novo is the official capital; Cotonou is the seat of government.",
+  "notDistractor": [
+   "Cotonou"
+  ],
+  "skipReverse": false,
+  "latlng": [
+   9.5,
+   2.25
+  ],
+  "areaKm2": 112622,
+  "featureIds": [
+   "204"
+  ],
+  "marker": false,
+  "flag": "/flags/bj.svg",
+  "unMember": true,
+  "color": 9,
+  "neighbors": [
+   "BFA",
+   "NER",
+   "NGA",
+   "TGO"
+  ]
+ },
+ {
+  "code": "BTN",
+  "iso2": "BT",
+  "isoNumeric": "064",
+  "name": "Bhutan",
+  "officialName": "Kingdom of Bhutan",
+  "aliases": [
+   "Kingdom of Bhutan"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Southern Asia",
+  "capitals": [
+   "Thimphu"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   27.5,
+   90.5
+  ],
+  "areaKm2": 38394,
+  "featureIds": [
+   "064"
+  ],
+  "marker": false,
+  "flag": "/flags/bt.svg",
+  "unMember": true,
+  "color": 3,
+  "neighbors": [
+   "CHN",
+   "IND"
+  ]
+ },
+ {
+  "code": "BOL",
+  "iso2": "BO",
+  "isoNumeric": "068",
+  "name": "Bolivia",
+  "officialName": "Plurinational State of Bolivia",
+  "aliases": [
+   "Plurinational State of Bolivia",
+   "Buliwya",
+   "Wuliwya",
+   "Bolivia, Plurinational State of",
+   "Estado Plurinacional de Bolivia",
+   "Buliwya Mamallaqta",
+   "Wuliwya Suyu",
+   "Tetã Volívia"
+  ],
+  "continents": [
+   "south-america"
+  ],
+  "subregion": "South America",
+  "capitals": [
+   "Sucre",
+   "La Paz"
+  ],
+  "capitalNote": "Sucre is the constitutional capital; La Paz is the seat of government.",
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -17,
+   -65
+  ],
+  "areaKm2": 1098581,
+  "featureIds": [
+   "068"
+  ],
+  "marker": false,
+  "flag": "/flags/bo.svg",
+  "unMember": true,
+  "color": 0,
+  "neighbors": [
+   "ARG",
+   "BRA",
+   "CHL",
+   "PER",
+   "PRY"
+  ]
+ },
+ {
+  "code": "BIH",
+  "iso2": "BA",
+  "isoNumeric": "070",
+  "name": "Bosnia and Herzegovina",
+  "officialName": "Bosnia and Herzegovina",
+  "aliases": [
+   "Bosnia-Herzegovina",
+   "Босна и Херцеговина"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Southeast Europe",
+  "capitals": [
+   "Sarajevo"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   44,
+   18
+  ],
+  "areaKm2": 51209,
+  "featureIds": [
+   "070"
+  ],
+  "marker": false,
+  "flag": "/flags/ba.svg",
+  "unMember": true,
+  "color": 10,
+  "neighbors": [
+   "HRV",
+   "MNE",
+   "SRB"
+  ]
+ },
+ {
+  "code": "BWA",
+  "iso2": "BW",
+  "isoNumeric": "072",
+  "name": "Botswana",
+  "officialName": "Republic of Botswana",
+  "aliases": [
+   "Republic of Botswana",
+   "Lefatshe la Botswana"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Southern Africa",
+  "capitals": [
+   "Gaborone"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -22,
+   24
+  ],
+  "areaKm2": 582000,
+  "featureIds": [
+   "072"
+  ],
+  "marker": false,
+  "flag": "/flags/bw.svg",
+  "unMember": true,
+  "color": 3,
+  "neighbors": [
+   "NAM",
+   "ZAF",
+   "ZWE"
+  ]
+ },
+ {
+  "code": "BRA",
+  "iso2": "BR",
+  "isoNumeric": "076",
+  "name": "Brazil",
+  "officialName": "Federative Republic of Brazil",
+  "aliases": [
+   "Federative Republic of Brazil",
+   "Brasil",
+   "República Federativa do Brasil"
+  ],
+  "continents": [
+   "south-america"
+  ],
+  "subregion": "South America",
+  "capitals": [
+   "Brasília"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -10,
+   -55
+  ],
+  "areaKm2": 8515767,
+  "featureIds": [
+   "076"
+  ],
+  "marker": false,
+  "flag": "/flags/br.svg",
+  "unMember": true,
+  "color": 2,
+  "neighbors": [
+   "ARG",
+   "BOL",
+   "COL",
+   "FRA",
+   "GUY",
+   "PER",
+   "PRY",
+   "SUR",
+   "URY",
+   "VEN"
+  ]
+ },
+ {
+  "code": "BRN",
+  "iso2": "BN",
+  "isoNumeric": "096",
+  "name": "Brunei",
+  "officialName": "Nation of Brunei, Abode of Peace",
+  "aliases": [
+   "Nation of Brunei, Abode of Peace",
+   "Brunei Darussalam",
+   "Nation of Brunei",
+   "the Abode of Peace"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "South-Eastern Asia",
+  "capitals": [
+   "Bandar Seri Begawan"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   4.5,
+   114.66666666
+  ],
+  "areaKm2": 5765,
+  "featureIds": [
+   "096"
+  ],
+  "marker": false,
+  "flag": "/flags/bn.svg",
+  "unMember": true,
+  "color": 1,
+  "neighbors": [
+   "MYS"
+  ]
+ },
+ {
+  "code": "BGR",
+  "iso2": "BG",
+  "isoNumeric": "100",
+  "name": "Bulgaria",
+  "officialName": "Republic of Bulgaria",
+  "aliases": [
+   "Republic of Bulgaria",
+   "Република България"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Southeast Europe",
+  "capitals": [
+   "Sofia"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   43,
+   25
+  ],
+  "areaKm2": 110879,
+  "featureIds": [
+   "100"
+  ],
+  "marker": false,
+  "flag": "/flags/bg.svg",
+  "unMember": true,
+  "color": 7,
+  "neighbors": [
+   "GRC",
+   "MKD",
+   "ROU",
+   "SRB",
+   "TUR"
+  ]
+ },
+ {
+  "code": "BFA",
+  "iso2": "BF",
+  "isoNumeric": "854",
+  "name": "Burkina Faso",
+  "officialName": "Burkina Faso",
+  "aliases": [],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Western Africa",
+  "capitals": [
+   "Ouagadougou"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   13,
+   -2
+  ],
+  "areaKm2": 272967,
+  "featureIds": [
+   "854"
+  ],
+  "marker": false,
+  "flag": "/flags/bf.svg",
+  "unMember": true,
+  "color": 5,
+  "neighbors": [
+   "BEN",
+   "CIV",
+   "GHA",
+   "MLI",
+   "NER",
+   "TGO"
+  ]
+ },
+ {
+  "code": "BDI",
+  "iso2": "BI",
+  "isoNumeric": "108",
+  "name": "Burundi",
+  "officialName": "Republic of Burundi",
+  "aliases": [
+   "Republic of Burundi",
+   "Republika y'Uburundi",
+   "République du Burundi"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Eastern Africa",
+  "capitals": [
+   "Gitega"
+  ],
+  "capitalNote": "Gitega became the political capital in 2019; Bujumbura remains the economic capital.",
+  "notDistractor": [
+   "Bujumbura"
+  ],
+  "skipReverse": false,
+  "latlng": [
+   -3.5,
+   30
+  ],
+  "areaKm2": 27834,
+  "featureIds": [
+   "108"
+  ],
+  "marker": false,
+  "flag": "/flags/bi.svg",
+  "unMember": true,
+  "color": 9,
+  "neighbors": [
+   "COD",
+   "RWA",
+   "TZA"
+  ]
+ },
+ {
+  "code": "KHM",
+  "iso2": "KH",
+  "isoNumeric": "116",
+  "name": "Cambodia",
+  "officialName": "Kingdom of Cambodia",
+  "aliases": [
+   "Kingdom of Cambodia"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "South-Eastern Asia",
+  "capitals": [
+   "Phnom Penh"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   13,
+   105
+  ],
+  "areaKm2": 181035,
+  "featureIds": [
+   "116"
+  ],
+  "marker": false,
+  "flag": "/flags/kh.svg",
+  "unMember": true,
+  "color": 11,
+  "neighbors": [
+   "LAO",
+   "THA",
+   "VNM"
+  ]
+ },
+ {
+  "code": "CMR",
+  "iso2": "CM",
+  "isoNumeric": "120",
+  "name": "Cameroon",
+  "officialName": "Republic of Cameroon",
+  "aliases": [
+   "Republic of Cameroon",
+   "République du Cameroun"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Middle Africa",
+  "capitals": [
+   "Yaoundé"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   6,
+   12
+  ],
+  "areaKm2": 475442,
+  "featureIds": [
+   "120"
+  ],
+  "marker": false,
+  "flag": "/flags/cm.svg",
+  "unMember": true,
+  "color": 8,
+  "neighbors": [
+   "CAF",
+   "COG",
+   "GAB",
+   "GNQ",
+   "NGA",
+   "TCD"
+  ]
+ },
+ {
+  "code": "CAN",
+  "iso2": "CA",
+  "isoNumeric": "124",
+  "name": "Canada",
+  "officialName": "Canada",
+  "aliases": [],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "North America",
+  "capitals": [
+   "Ottawa"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   60,
+   -95
+  ],
+  "areaKm2": 9984670,
+  "featureIds": [
+   "124"
+  ],
+  "marker": false,
+  "flag": "/flags/ca.svg",
+  "unMember": true,
+  "color": 2,
+  "neighbors": [
+   "USA"
+  ]
+ },
+ {
+  "code": "CPV",
+  "iso2": "CV",
+  "isoNumeric": "132",
+  "name": "Cape Verde",
+  "officialName": "Republic of Cabo Verde",
+  "aliases": [
+   "Republic of Cabo Verde",
+   "República de Cabo Verde"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Western Africa",
+  "capitals": [
+   "Praia"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   16,
+   -24
+  ],
+  "areaKm2": 4033,
+  "featureIds": [
+   "132"
+  ],
+  "marker": false,
+  "flag": "/flags/cv.svg",
+  "unMember": true,
+  "color": 9,
+  "neighbors": []
+ },
+ {
+  "code": "CAF",
+  "iso2": "CF",
+  "isoNumeric": "140",
+  "name": "Central African Republic",
+  "officialName": "Central African Republic",
+  "aliases": [
+   "République centrafricaine"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Middle Africa",
+  "capitals": [
+   "Bangui"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   7,
+   21
+  ],
+  "areaKm2": 622984,
+  "featureIds": [
+   "140"
+  ],
+  "marker": false,
+  "flag": "/flags/cf.svg",
+  "unMember": true,
+  "color": 7,
+  "neighbors": [
+   "CMR",
+   "COD",
+   "COG",
+   "SDN",
+   "SSD",
+   "TCD"
+  ]
+ },
+ {
+  "code": "TCD",
+  "iso2": "TD",
+  "isoNumeric": "148",
+  "name": "Chad",
+  "officialName": "Republic of Chad",
+  "aliases": [
+   "Republic of Chad",
+   "Tchad",
+   "République du Tchad"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Middle Africa",
+  "capitals": [
+   "N'Djamena"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   15,
+   19
+  ],
+  "areaKm2": 1284000,
+  "featureIds": [
+   "148"
+  ],
+  "marker": false,
+  "flag": "/flags/td.svg",
+  "unMember": true,
+  "color": 6,
+  "neighbors": [
+   "CAF",
+   "CMR",
+   "LBY",
+   "NER",
+   "NGA",
+   "SDN"
+  ]
+ },
+ {
+  "code": "CHL",
+  "iso2": "CL",
+  "isoNumeric": "152",
+  "name": "Chile",
+  "officialName": "Republic of Chile",
+  "aliases": [
+   "Republic of Chile",
+   "República de Chile"
+  ],
+  "continents": [
+   "south-america"
+  ],
+  "subregion": "South America",
+  "capitals": [
+   "Santiago"
+  ],
+  "capitalNote": "Santiago is the capital; the National Congress meets in Valparaíso.",
+  "notDistractor": [
+   "Valparaíso"
+  ],
+  "skipReverse": false,
+  "latlng": [
+   -30,
+   -71
+  ],
+  "areaKm2": 756102,
+  "featureIds": [
+   "152"
+  ],
+  "marker": false,
+  "flag": "/flags/cl.svg",
+  "unMember": true,
+  "color": 1,
+  "neighbors": [
+   "ARG",
+   "BOL",
+   "PER"
+  ]
+ },
+ {
+  "code": "CHN",
+  "iso2": "CN",
+  "isoNumeric": "156",
+  "name": "China",
+  "officialName": "People's Republic of China",
+  "aliases": [
+   "People's Republic of China",
+   "Zhōngguó",
+   "Zhongguo",
+   "Zhonghua",
+   "中华人民共和国",
+   "Zhōnghuá Rénmín Gònghéguó"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Eastern Asia",
+  "capitals": [
+   "Beijing"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   35,
+   105
+  ],
+  "areaKm2": 9706961,
+  "featureIds": [
+   "156"
+  ],
+  "marker": false,
+  "flag": "/flags/cn.svg",
+  "unMember": true,
+  "color": 10,
+  "neighbors": [
+   "AFG",
+   "BTN",
+   "IND",
+   "KAZ",
+   "KGZ",
+   "LAO",
+   "MMR",
+   "MNG",
+   "NPL",
+   "PAK",
+   "PRK",
+   "RUS",
+   "TJK",
+   "VNM"
+  ]
+ },
+ {
+  "code": "COL",
+  "iso2": "CO",
+  "isoNumeric": "170",
+  "name": "Colombia",
+  "officialName": "Republic of Colombia",
+  "aliases": [
+   "Republic of Colombia",
+   "República de Colombia"
+  ],
+  "continents": [
+   "south-america"
+  ],
+  "subregion": "South America",
+  "capitals": [
+   "Bogotá"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   4,
+   -72
+  ],
+  "areaKm2": 1141748,
+  "featureIds": [
+   "170"
+  ],
+  "marker": false,
+  "flag": "/flags/co.svg",
+  "unMember": true,
+  "color": 11,
+  "neighbors": [
+   "BRA",
+   "ECU",
+   "PAN",
+   "PER",
+   "VEN"
+  ]
+ },
+ {
+  "code": "COM",
+  "iso2": "KM",
+  "isoNumeric": "174",
+  "name": "Comoros",
+  "officialName": "Union of the Comoros",
+  "aliases": [
+   "Union of the Comoros",
+   "Union des Comores",
+   "Udzima wa Komori",
+   "al-Ittiḥād al-Qumurī"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Eastern Africa",
+  "capitals": [
+   "Moroni"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -12.16666666,
+   44.25
+  ],
+  "areaKm2": 1862,
+  "featureIds": [
+   "174"
+  ],
+  "marker": true,
+  "flag": "/flags/km.svg",
+  "unMember": true,
+  "color": 11,
+  "neighbors": []
+ },
+ {
+  "code": "CRI",
+  "iso2": "CR",
+  "isoNumeric": "188",
+  "name": "Costa Rica",
+  "officialName": "Republic of Costa Rica",
+  "aliases": [
+   "Republic of Costa Rica",
+   "República de Costa Rica"
+  ],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Central America",
+  "capitals": [
+   "San José"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   10,
+   -84
+  ],
+  "areaKm2": 51100,
+  "featureIds": [
+   "188"
+  ],
+  "marker": false,
+  "flag": "/flags/cr.svg",
+  "unMember": true,
+  "color": 6,
+  "neighbors": [
+   "NIC",
+   "PAN"
+  ]
+ },
+ {
+  "code": "CIV",
+  "iso2": "CI",
+  "isoNumeric": "384",
+  "name": "Côte d'Ivoire",
+  "officialName": "Republic of Côte d'Ivoire",
+  "aliases": [
+   "Ivory Coast",
+   "Republic of Côte d'Ivoire",
+   "Cote d'Ivoire",
+   "République de Côte d'Ivoire"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Western Africa",
+  "capitals": [
+   "Yamoussoukro"
+  ],
+  "capitalNote": "Yamoussoukro is the official capital, while many government offices remain in Abidjan.",
+  "notDistractor": [
+   "Abidjan"
+  ],
+  "skipReverse": false,
+  "latlng": [
+   8,
+   -5
+  ],
+  "areaKm2": 322463,
+  "featureIds": [
+   "384"
+  ],
+  "marker": false,
+  "flag": "/flags/ci.svg",
+  "unMember": true,
+  "color": 8,
+  "neighbors": [
+   "BFA",
+   "GHA",
+   "GIN",
+   "LBR",
+   "MLI"
+  ]
+ },
+ {
+  "code": "HRV",
+  "iso2": "HR",
+  "isoNumeric": "191",
+  "name": "Croatia",
+  "officialName": "Republic of Croatia",
+  "aliases": [
+   "Republic of Croatia",
+   "Hrvatska",
+   "Republika Hrvatska"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Southeast Europe",
+  "capitals": [
+   "Zagreb"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   45.16666666,
+   15.5
+  ],
+  "areaKm2": 56594,
+  "featureIds": [
+   "191"
+  ],
+  "marker": false,
+  "flag": "/flags/hr.svg",
+  "unMember": true,
+  "color": 1,
+  "neighbors": [
+   "BIH",
+   "HUN",
+   "MNE",
+   "SRB",
+   "SVN"
+  ]
+ },
+ {
+  "code": "CUB",
+  "iso2": "CU",
+  "isoNumeric": "192",
+  "name": "Cuba",
+  "officialName": "Republic of Cuba",
+  "aliases": [
+   "Republic of Cuba",
+   "República de Cuba"
+  ],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Caribbean",
+  "capitals": [
+   "Havana"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   21.5,
+   -80
+  ],
+  "areaKm2": 109884,
+  "featureIds": [
+   "192"
+  ],
+  "marker": false,
+  "flag": "/flags/cu.svg",
+  "unMember": true,
+  "color": 3,
+  "neighbors": []
+ },
+ {
+  "code": "CYP",
+  "iso2": "CY",
+  "isoNumeric": "196",
+  "name": "Cyprus",
+  "officialName": "Republic of Cyprus",
+  "aliases": [
+   "Republic of Cyprus",
+   "Kýpros",
+   "Kıbrıs",
+   "Κυπριακή Δημοκρατία",
+   "Kıbrıs Cumhuriyeti"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Southern Europe",
+  "capitals": [
+   "Nicosia"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   35,
+   33
+  ],
+  "areaKm2": 9251,
+  "featureIds": [
+   "196",
+   "name:N. Cyprus"
+  ],
+  "marker": false,
+  "flag": "/flags/cy.svg",
+  "unMember": true,
+  "color": 2,
+  "neighbors": []
+ },
+ {
+  "code": "CZE",
+  "iso2": "CZ",
+  "isoNumeric": "203",
+  "name": "Czechia",
+  "officialName": "Czech Republic",
+  "aliases": [
+   "Czech Republic",
+   "Česká republika",
+   "Česko"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Central Europe",
+  "capitals": [
+   "Prague"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   49.75,
+   15.5
+  ],
+  "areaKm2": 78865,
+  "featureIds": [
+   "203"
+  ],
+  "marker": false,
+  "flag": "/flags/cz.svg",
+  "unMember": true,
+  "color": 2,
+  "neighbors": [
+   "AUT",
+   "DEU",
+   "POL",
+   "SVK"
+  ]
+ },
+ {
+  "code": "DNK",
+  "iso2": "DK",
+  "isoNumeric": "208",
+  "name": "Denmark",
+  "officialName": "Kingdom of Denmark",
+  "aliases": [
+   "Kingdom of Denmark",
+   "Danmark",
+   "Kongeriget Danmark"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Northern Europe",
+  "capitals": [
+   "Copenhagen"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   56,
+   10
+  ],
+  "areaKm2": 43094,
+  "featureIds": [
+   "208"
+  ],
+  "marker": false,
+  "flag": "/flags/dk.svg",
+  "unMember": true,
+  "color": 3,
+  "neighbors": [
+   "DEU"
+  ]
+ },
+ {
+  "code": "DJI",
+  "iso2": "DJ",
+  "isoNumeric": "262",
+  "name": "Djibouti",
+  "officialName": "Republic of Djibouti",
+  "aliases": [
+   "Republic of Djibouti",
+   "Jabuuti",
+   "Gabuuti",
+   "République de Djibouti",
+   "Gabuutih Ummuuno",
+   "Jamhuuriyadda Jabuuti"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Eastern Africa",
+  "capitals": [
+   "Djibouti"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   11.5,
+   43
+  ],
+  "areaKm2": 23200,
+  "featureIds": [
+   "262"
+  ],
+  "marker": false,
+  "flag": "/flags/dj.svg",
+  "unMember": true,
+  "color": 0,
+  "neighbors": [
+   "ERI",
+   "ETH",
+   "SOM"
+  ]
+ },
+ {
+  "code": "DMA",
+  "iso2": "DM",
+  "isoNumeric": "212",
+  "name": "Dominica",
+  "officialName": "Commonwealth of Dominica",
+  "aliases": [
+   "Commonwealth of Dominica",
+   "Dominique",
+   "Wai‘tu kubuli"
+  ],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Caribbean",
+  "capitals": [
+   "Roseau"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   15.41666666,
+   -61.33333333
+  ],
+  "areaKm2": 751,
+  "featureIds": [
+   "212"
+  ],
+  "marker": true,
+  "flag": "/flags/dm.svg",
+  "unMember": true,
+  "color": 4,
+  "neighbors": []
+ },
+ {
+  "code": "DOM",
+  "iso2": "DO",
+  "isoNumeric": "214",
+  "name": "Dominican Republic",
+  "officialName": "Dominican Republic",
+  "aliases": [],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Caribbean",
+  "capitals": [
+   "Santo Domingo"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   19,
+   -70.66666666
+  ],
+  "areaKm2": 48671,
+  "featureIds": [
+   "214"
+  ],
+  "marker": false,
+  "flag": "/flags/do.svg",
+  "unMember": true,
+  "color": 4,
+  "neighbors": [
+   "HTI"
+  ]
+ },
+ {
+  "code": "COD",
+  "iso2": "CD",
+  "isoNumeric": "180",
+  "name": "DR Congo",
+  "officialName": "Democratic Republic of the Congo",
+  "aliases": [
+   "Democratic Republic of the Congo",
+   "Congo-Kinshasa",
+   "Congo, the Democratic Republic of the",
+   "Democratic Republic of Congo"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Middle Africa",
+  "capitals": [
+   "Kinshasa"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   0,
+   25
+  ],
+  "areaKm2": 2344858,
+  "featureIds": [
+   "180"
+  ],
+  "marker": false,
+  "flag": "/flags/cd.svg",
+  "unMember": true,
+  "color": 8,
+  "neighbors": [
+   "AGO",
+   "BDI",
+   "CAF",
+   "COG",
+   "RWA",
+   "SSD",
+   "TZA",
+   "UGA",
+   "ZMB"
+  ]
+ },
+ {
+  "code": "ECU",
+  "iso2": "EC",
+  "isoNumeric": "218",
+  "name": "Ecuador",
+  "officialName": "Republic of Ecuador",
+  "aliases": [
+   "Republic of Ecuador",
+   "República del Ecuador"
+  ],
+  "continents": [
+   "south-america"
+  ],
+  "subregion": "South America",
+  "capitals": [
+   "Quito"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -2,
+   -77.5
+  ],
+  "areaKm2": 276841,
+  "featureIds": [
+   "218"
+  ],
+  "marker": false,
+  "flag": "/flags/ec.svg",
+  "unMember": true,
+  "color": 9,
+  "neighbors": [
+   "COL",
+   "PER"
+  ]
+ },
+ {
+  "code": "EGY",
+  "iso2": "EG",
+  "isoNumeric": "818",
+  "name": "Egypt",
+  "officialName": "Arab Republic of Egypt",
+  "aliases": [
+   "Arab Republic of Egypt"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Northern Africa",
+  "capitals": [
+   "Cairo"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   27,
+   30
+  ],
+  "areaKm2": 1002450,
+  "featureIds": [
+   "818"
+  ],
+  "marker": false,
+  "flag": "/flags/eg.svg",
+  "unMember": true,
+  "color": 5,
+  "neighbors": [
+   "ISR",
+   "LBY",
+   "PSE",
+   "SDN"
+  ]
+ },
+ {
+  "code": "SLV",
+  "iso2": "SV",
+  "isoNumeric": "222",
+  "name": "El Salvador",
+  "officialName": "Republic of El Salvador",
+  "aliases": [
+   "Republic of El Salvador",
+   "República de El Salvador"
+  ],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Central America",
+  "capitals": [
+   "San Salvador"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   13.83333333,
+   -88.91666666
+  ],
+  "areaKm2": 21041,
+  "featureIds": [
+   "222"
+  ],
+  "marker": false,
+  "flag": "/flags/sv.svg",
+  "unMember": true,
+  "color": 6,
+  "neighbors": [
+   "GTM",
+   "HND"
+  ]
+ },
+ {
+  "code": "GNQ",
+  "iso2": "GQ",
+  "isoNumeric": "226",
+  "name": "Equatorial Guinea",
+  "officialName": "Republic of Equatorial Guinea",
+  "aliases": [
+   "Republic of Equatorial Guinea",
+   "República de Guinea Ecuatorial",
+   "République de Guinée équatoriale",
+   "República da Guiné Equatorial"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Middle Africa",
+  "capitals": [
+   "Malabo"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   2,
+   10
+  ],
+  "areaKm2": 28051,
+  "featureIds": [
+   "226"
+  ],
+  "marker": false,
+  "flag": "/flags/gq.svg",
+  "unMember": true,
+  "color": 9,
+  "neighbors": [
+   "CMR",
+   "GAB"
+  ]
+ },
+ {
+  "code": "ERI",
+  "iso2": "ER",
+  "isoNumeric": "232",
+  "name": "Eritrea",
+  "officialName": "State of Eritrea",
+  "aliases": [
+   "State of Eritrea",
+   "ሃገረ ኤርትራ",
+   "Dawlat Iritriyá",
+   "ʾErtrā",
+   "Iritriyā"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Eastern Africa",
+  "capitals": [
+   "Asmara"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   15,
+   39
+  ],
+  "areaKm2": 117600,
+  "featureIds": [
+   "232"
+  ],
+  "marker": false,
+  "flag": "/flags/er.svg",
+  "unMember": true,
+  "color": 4,
+  "neighbors": [
+   "DJI",
+   "ETH",
+   "SDN"
+  ]
+ },
+ {
+  "code": "EST",
+  "iso2": "EE",
+  "isoNumeric": "233",
+  "name": "Estonia",
+  "officialName": "Republic of Estonia",
+  "aliases": [
+   "Republic of Estonia",
+   "Eesti",
+   "Eesti Vabariik"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Northern Europe",
+  "capitals": [
+   "Tallinn"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   59,
+   26
+  ],
+  "areaKm2": 45227,
+  "featureIds": [
+   "233"
+  ],
+  "marker": false,
+  "flag": "/flags/ee.svg",
+  "unMember": true,
+  "color": 10,
+  "neighbors": [
+   "LVA",
+   "RUS"
+  ]
+ },
+ {
+  "code": "SWZ",
+  "iso2": "SZ",
+  "isoNumeric": "748",
+  "name": "Eswatini",
+  "officialName": "Kingdom of Eswatini",
+  "aliases": [
+   "Kingdom of Eswatini",
+   "Swaziland",
+   "weSwatini",
+   "Swatini",
+   "Ngwane",
+   "Umbuso weSwatini"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Southern Africa",
+  "capitals": [
+   "Mbabane",
+   "Lobamba"
+  ],
+  "capitalNote": "Mbabane is the administrative capital; Lobamba is the royal and legislative capital.",
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -26.5,
+   31.5
+  ],
+  "areaKm2": 17364,
+  "featureIds": [
+   "748"
+  ],
+  "marker": false,
+  "flag": "/flags/sz.svg",
+  "unMember": true,
+  "color": 9,
+  "neighbors": [
+   "MOZ",
+   "ZAF"
+  ]
+ },
+ {
+  "code": "ETH",
+  "iso2": "ET",
+  "isoNumeric": "231",
+  "name": "Ethiopia",
+  "officialName": "Federal Democratic Republic of Ethiopia",
+  "aliases": [
+   "Federal Democratic Republic of Ethiopia",
+   "ʾĪtyōṗṗyā",
+   "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Eastern Africa",
+  "capitals": [
+   "Addis Ababa"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   8,
+   38
+  ],
+  "areaKm2": 1104300,
+  "featureIds": [
+   "231"
+  ],
+  "marker": false,
+  "flag": "/flags/et.svg",
+  "unMember": true,
+  "color": 2,
+  "neighbors": [
+   "DJI",
+   "ERI",
+   "KEN",
+   "SDN",
+   "SOM",
+   "SSD"
+  ]
+ },
+ {
+  "code": "FJI",
+  "iso2": "FJ",
+  "isoNumeric": "242",
+  "name": "Fiji",
+  "officialName": "Republic of Fiji",
+  "aliases": [
+   "Republic of Fiji",
+   "Viti",
+   "Matanitu ko Viti",
+   "Fijī Gaṇarājya"
+  ],
+  "continents": [
+   "oceania"
+  ],
+  "subregion": "Melanesia",
+  "capitals": [
+   "Suva"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -18,
+   175
+  ],
+  "areaKm2": 18272,
+  "featureIds": [
+   "242"
+  ],
+  "marker": false,
+  "flag": "/flags/fj.svg",
+  "unMember": true,
+  "color": 5,
+  "neighbors": []
+ },
+ {
+  "code": "FIN",
+  "iso2": "FI",
+  "isoNumeric": "246",
+  "name": "Finland",
+  "officialName": "Republic of Finland",
+  "aliases": [
+   "Republic of Finland",
+   "Suomi",
+   "Suomen tasavalta",
+   "Republiken Finland"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Northern Europe",
+  "capitals": [
+   "Helsinki"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   64,
+   26
+  ],
+  "areaKm2": 338424,
+  "featureIds": [
+   "246"
+  ],
+  "marker": false,
+  "flag": "/flags/fi.svg",
+  "unMember": true,
+  "color": 5,
+  "neighbors": [
+   "NOR",
+   "RUS",
+   "SWE"
+  ]
+ },
+ {
+  "code": "FRA",
+  "iso2": "FR",
+  "isoNumeric": "250",
+  "name": "France",
+  "officialName": "French Republic",
+  "aliases": [
+   "French Republic",
+   "République française"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Western Europe",
+  "capitals": [
+   "Paris"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   46,
+   2
+  ],
+  "areaKm2": 551695,
+  "featureIds": [
+   "250"
+  ],
+  "marker": false,
+  "flag": "/flags/fr.svg",
+  "unMember": true,
+  "color": 11,
+  "neighbors": [
+   "AND",
+   "BEL",
+   "BRA",
+   "CHE",
+   "DEU",
+   "ESP",
+   "ITA",
+   "LUX",
+   "MCO",
+   "SUR"
+  ]
+ },
+ {
+  "code": "GAB",
+  "iso2": "GA",
+  "isoNumeric": "266",
+  "name": "Gabon",
+  "officialName": "Gabonese Republic",
+  "aliases": [
+   "Gabonese Republic",
+   "République Gabonaise"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Middle Africa",
+  "capitals": [
+   "Libreville"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -1,
+   11.75
+  ],
+  "areaKm2": 267668,
+  "featureIds": [
+   "266"
+  ],
+  "marker": false,
+  "flag": "/flags/ga.svg",
+  "unMember": true,
+  "color": 7,
+  "neighbors": [
+   "CMR",
+   "COG",
+   "GNQ"
+  ]
+ },
+ {
+  "code": "GMB",
+  "iso2": "GM",
+  "isoNumeric": "270",
+  "name": "Gambia",
+  "officialName": "Republic of the Gambia",
+  "aliases": [
+   "Republic of the Gambia"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Western Africa",
+  "capitals": [
+   "Banjul"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   13.46666666,
+   -16.56666666
+  ],
+  "areaKm2": 10689,
+  "featureIds": [
+   "270"
+  ],
+  "marker": false,
+  "flag": "/flags/gm.svg",
+  "unMember": true,
+  "color": 7,
+  "neighbors": [
+   "SEN"
+  ]
+ },
+ {
+  "code": "GEO",
+  "iso2": "GE",
+  "isoNumeric": "268",
+  "name": "Georgia",
+  "officialName": "Georgia",
+  "aliases": [
+   "Sakartvelo"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Western Asia",
+  "capitals": [
+   "Tbilisi"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   42,
+   43.5
+  ],
+  "areaKm2": 69700,
+  "featureIds": [
+   "268"
+  ],
+  "marker": false,
+  "flag": "/flags/ge.svg",
+  "unMember": true,
+  "color": 11,
+  "neighbors": [
+   "ARM",
+   "AZE",
+   "RUS",
+   "TUR"
+  ]
+ },
+ {
+  "code": "DEU",
+  "iso2": "DE",
+  "isoNumeric": "276",
+  "name": "Germany",
+  "officialName": "Federal Republic of Germany",
+  "aliases": [
+   "Federal Republic of Germany",
+   "Bundesrepublik Deutschland"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Western Europe",
+  "capitals": [
+   "Berlin"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   51,
+   9
+  ],
+  "areaKm2": 357114,
+  "featureIds": [
+   "276"
+  ],
+  "marker": false,
+  "flag": "/flags/de.svg",
+  "unMember": true,
+  "color": 0,
+  "neighbors": [
+   "AUT",
+   "BEL",
+   "CHE",
+   "CZE",
+   "DNK",
+   "FRA",
+   "LUX",
+   "NLD",
+   "POL"
+  ]
+ },
+ {
+  "code": "GHA",
+  "iso2": "GH",
+  "isoNumeric": "288",
+  "name": "Ghana",
+  "officialName": "Republic of Ghana",
+  "aliases": [
+   "Republic of Ghana"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Western Africa",
+  "capitals": [
+   "Accra"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   8,
+   -2
+  ],
+  "areaKm2": 238533,
+  "featureIds": [
+   "288"
+  ],
+  "marker": false,
+  "flag": "/flags/gh.svg",
+  "unMember": true,
+  "color": 9,
+  "neighbors": [
+   "BFA",
+   "CIV",
+   "TGO"
+  ]
+ },
+ {
+  "code": "GRC",
+  "iso2": "GR",
+  "isoNumeric": "300",
+  "name": "Greece",
+  "officialName": "Hellenic Republic",
+  "aliases": [
+   "Hellenic Republic",
+   "Elláda",
+   "Ελληνική Δημοκρατία"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Southern Europe",
+  "capitals": [
+   "Athens"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   39,
+   22
+  ],
+  "areaKm2": 131990,
+  "featureIds": [
+   "300"
+  ],
+  "marker": false,
+  "flag": "/flags/gr.svg",
+  "unMember": true,
+  "color": 0,
+  "neighbors": [
+   "ALB",
+   "BGR",
+   "MKD",
+   "TUR"
+  ]
+ },
+ {
+  "code": "GRD",
+  "iso2": "GD",
+  "isoNumeric": "308",
+  "name": "Grenada",
+  "officialName": "Grenada",
+  "aliases": [],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Caribbean",
+  "capitals": [
+   "St. George's"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   12.11666666,
+   -61.66666666
+  ],
+  "areaKm2": 344,
+  "featureIds": [
+   "308"
+  ],
+  "marker": true,
+  "flag": "/flags/gd.svg",
+  "unMember": true,
+  "color": 6,
+  "neighbors": []
+ },
+ {
+  "code": "GTM",
+  "iso2": "GT",
+  "isoNumeric": "320",
+  "name": "Guatemala",
+  "officialName": "Republic of Guatemala",
+  "aliases": [
+   "Republic of Guatemala"
+  ],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Central America",
+  "capitals": [
+   "Guatemala City"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   15.5,
+   -90.25
+  ],
+  "areaKm2": 108889,
+  "featureIds": [
+   "320"
+  ],
+  "marker": false,
+  "flag": "/flags/gt.svg",
+  "unMember": true,
+  "color": 7,
+  "neighbors": [
+   "BLZ",
+   "HND",
+   "MEX",
+   "SLV"
+  ]
+ },
+ {
+  "code": "GIN",
+  "iso2": "GN",
+  "isoNumeric": "324",
+  "name": "Guinea",
+  "officialName": "Republic of Guinea",
+  "aliases": [
+   "Republic of Guinea",
+   "République de Guinée"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Western Africa",
+  "capitals": [
+   "Conakry"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   11,
+   -10
+  ],
+  "areaKm2": 245857,
+  "featureIds": [
+   "324"
+  ],
+  "marker": false,
+  "flag": "/flags/gn.svg",
+  "unMember": true,
+  "color": 11,
+  "neighbors": [
+   "CIV",
+   "GNB",
+   "LBR",
+   "MLI",
+   "SEN",
+   "SLE"
+  ]
+ },
+ {
+  "code": "GNB",
+  "iso2": "GW",
+  "isoNumeric": "624",
+  "name": "Guinea-Bissau",
+  "officialName": "Republic of Guinea-Bissau",
+  "aliases": [
+   "Republic of Guinea-Bissau",
+   "República da Guiné-Bissau"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Western Africa",
+  "capitals": [
+   "Bissau"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   12,
+   -15
+  ],
+  "areaKm2": 36125,
+  "featureIds": [
+   "624"
+  ],
+  "marker": false,
+  "flag": "/flags/gw.svg",
+  "unMember": true,
+  "color": 0,
+  "neighbors": [
+   "GIN",
+   "SEN"
+  ]
+ },
+ {
+  "code": "GUY",
+  "iso2": "GY",
+  "isoNumeric": "328",
+  "name": "Guyana",
+  "officialName": "Co-operative Republic of Guyana",
+  "aliases": [
+   "Co-operative Republic of Guyana"
+  ],
+  "continents": [
+   "south-america"
+  ],
+  "subregion": "South America",
+  "capitals": [
+   "Georgetown"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   5,
+   -59
+  ],
+  "areaKm2": 214969,
+  "featureIds": [
+   "328"
+  ],
+  "marker": false,
+  "flag": "/flags/gy.svg",
+  "unMember": true,
+  "color": 6,
+  "neighbors": [
+   "BRA",
+   "SUR",
+   "VEN"
+  ]
+ },
+ {
+  "code": "HTI",
+  "iso2": "HT",
+  "isoNumeric": "332",
+  "name": "Haiti",
+  "officialName": "Republic of Haiti",
+  "aliases": [
+   "Republic of Haiti",
+   "République d'Haïti",
+   "Repiblik Ayiti"
+  ],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Caribbean",
+  "capitals": [
+   "Port-au-Prince"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   19,
+   -72.41666666
+  ],
+  "areaKm2": 27750,
+  "featureIds": [
+   "332"
+  ],
+  "marker": false,
+  "flag": "/flags/ht.svg",
+  "unMember": true,
+  "color": 10,
+  "neighbors": [
+   "DOM"
+  ]
+ },
+ {
+  "code": "HND",
+  "iso2": "HN",
+  "isoNumeric": "340",
+  "name": "Honduras",
+  "officialName": "Republic of Honduras",
+  "aliases": [
+   "Republic of Honduras",
+   "República de Honduras"
+  ],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Central America",
+  "capitals": [
+   "Tegucigalpa"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   15,
+   -86.5
+  ],
+  "areaKm2": 112492,
+  "featureIds": [
+   "340"
+  ],
+  "marker": false,
+  "flag": "/flags/hn.svg",
+  "unMember": true,
+  "color": 10,
+  "neighbors": [
+   "GTM",
+   "NIC",
+   "SLV"
+  ]
+ },
+ {
+  "code": "HUN",
+  "iso2": "HU",
+  "isoNumeric": "348",
+  "name": "Hungary",
+  "officialName": "Hungary",
+  "aliases": [],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Central Europe",
+  "capitals": [
+   "Budapest"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   47,
+   20
+  ],
+  "areaKm2": 93028,
+  "featureIds": [
+   "348"
+  ],
+  "marker": false,
+  "flag": "/flags/hu.svg",
+  "unMember": true,
+  "color": 4,
+  "neighbors": [
+   "AUT",
+   "HRV",
+   "ROU",
+   "SRB",
+   "SVK",
+   "SVN",
+   "UKR"
+  ]
+ },
+ {
+  "code": "ISL",
+  "iso2": "IS",
+  "isoNumeric": "352",
+  "name": "Iceland",
+  "officialName": "Iceland",
+  "aliases": [
+   "Island",
+   "Republic of Iceland",
+   "Lýðveldið Ísland"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Northern Europe",
+  "capitals": [
+   "Reykjavik"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   65,
+   -18
+  ],
+  "areaKm2": 103000,
+  "featureIds": [
+   "352"
+  ],
+  "marker": false,
+  "flag": "/flags/is.svg",
+  "unMember": true,
+  "color": 1,
+  "neighbors": []
+ },
+ {
+  "code": "IND",
+  "iso2": "IN",
+  "isoNumeric": "356",
+  "name": "India",
+  "officialName": "Republic of India",
+  "aliases": [
+   "Republic of India",
+   "Bhārat",
+   "Bharat Ganrajya",
+   "இந்தியா"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Southern Asia",
+  "capitals": [
+   "New Delhi"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   20,
+   77
+  ],
+  "areaKm2": 3287590,
+  "featureIds": [
+   "356"
+  ],
+  "marker": false,
+  "flag": "/flags/in.svg",
+  "unMember": true,
+  "color": 8,
+  "neighbors": [
+   "BGD",
+   "BTN",
+   "CHN",
+   "MMR",
+   "NPL",
+   "PAK"
+  ]
+ },
+ {
+  "code": "IDN",
+  "iso2": "ID",
+  "isoNumeric": "360",
+  "name": "Indonesia",
+  "officialName": "Republic of Indonesia",
+  "aliases": [
+   "Republic of Indonesia",
+   "Republik Indonesia"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "South-Eastern Asia",
+  "capitals": [
+   "Jakarta"
+  ],
+  "capitalNote": "Jakarta is the capital while the planned new capital, Nusantara, is being built.",
+  "notDistractor": [
+   "Nusantara"
+  ],
+  "skipReverse": false,
+  "latlng": [
+   -5,
+   120
+  ],
+  "areaKm2": 1904569,
+  "featureIds": [
+   "360"
+  ],
+  "marker": false,
+  "flag": "/flags/id.svg",
+  "unMember": true,
+  "color": 8,
+  "neighbors": [
+   "MYS",
+   "PNG",
+   "TLS"
+  ]
+ },
+ {
+  "code": "IRN",
+  "iso2": "IR",
+  "isoNumeric": "364",
+  "name": "Iran",
+  "officialName": "Islamic Republic of Iran",
+  "aliases": [
+   "Islamic Republic of Iran",
+   "Iran, Islamic Republic of",
+   "Jomhuri-ye Eslāmi-ye Irān"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Southern Asia",
+  "capitals": [
+   "Tehran"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   32,
+   53
+  ],
+  "areaKm2": 1648195,
+  "featureIds": [
+   "364"
+  ],
+  "marker": false,
+  "flag": "/flags/ir.svg",
+  "unMember": true,
+  "color": 5,
+  "neighbors": [
+   "AFG",
+   "ARM",
+   "AZE",
+   "IRQ",
+   "PAK",
+   "TKM",
+   "TUR"
+  ]
+ },
+ {
+  "code": "IRQ",
+  "iso2": "IQ",
+  "isoNumeric": "368",
+  "name": "Iraq",
+  "officialName": "Republic of Iraq",
+  "aliases": [
+   "Republic of Iraq",
+   "Jumhūriyyat al-‘Irāq"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Western Asia",
+  "capitals": [
+   "Baghdad"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   33,
+   44
+  ],
+  "areaKm2": 438317,
+  "featureIds": [
+   "368"
+  ],
+  "marker": false,
+  "flag": "/flags/iq.svg",
+  "unMember": true,
+  "color": 3,
+  "neighbors": [
+   "IRN",
+   "JOR",
+   "KWT",
+   "SAU",
+   "SYR",
+   "TUR"
+  ]
+ },
+ {
+  "code": "IRL",
+  "iso2": "IE",
+  "isoNumeric": "372",
+  "name": "Ireland",
+  "officialName": "Republic of Ireland",
+  "aliases": [
+   "Republic of Ireland",
+   "Éire",
+   "Poblacht na hÉireann"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Northern Europe",
+  "capitals": [
+   "Dublin"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   53,
+   -8
+  ],
+  "areaKm2": 70273,
+  "featureIds": [
+   "372"
+  ],
+  "marker": false,
+  "flag": "/flags/ie.svg",
+  "unMember": true,
+  "color": 8,
+  "neighbors": [
+   "GBR"
+  ]
+ },
+ {
+  "code": "ISR",
+  "iso2": "IL",
+  "isoNumeric": "376",
+  "name": "Israel",
+  "officialName": "State of Israel",
+  "aliases": [
+   "State of Israel",
+   "Medīnat Yisrā'el"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Western Asia",
+  "capitals": [
+   "Jerusalem"
+  ],
+  "capitalNote": "Israel designates Jerusalem as its capital; most countries keep their embassies in Tel Aviv.",
+  "notDistractor": [
+   "Tel Aviv"
+  ],
+  "skipReverse": true,
+  "latlng": [
+   31.47,
+   35.13
+  ],
+  "areaKm2": 20770,
+  "featureIds": [
+   "376"
+  ],
+  "marker": false,
+  "flag": "/flags/il.svg",
+  "unMember": true,
+  "color": 9,
+  "neighbors": [
+   "EGY",
+   "JOR",
+   "LBN",
+   "PSE",
+   "SYR"
+  ]
+ },
+ {
+  "code": "ITA",
+  "iso2": "IT",
+  "isoNumeric": "380",
+  "name": "Italy",
+  "officialName": "Italian Republic",
+  "aliases": [
+   "Italian Republic",
+   "Repubblica italiana"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Southern Europe",
+  "capitals": [
+   "Rome"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   42.83333333,
+   12.83333333
+  ],
+  "areaKm2": 301336,
+  "featureIds": [
+   "380"
+  ],
+  "marker": false,
+  "flag": "/flags/it.svg",
+  "unMember": true,
+  "color": 5,
+  "neighbors": [
+   "AUT",
+   "CHE",
+   "FRA",
+   "SMR",
+   "SVN",
+   "VAT"
+  ]
+ },
+ {
+  "code": "JAM",
+  "iso2": "JM",
+  "isoNumeric": "388",
+  "name": "Jamaica",
+  "officialName": "Jamaica",
+  "aliases": [],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Caribbean",
+  "capitals": [
+   "Kingston"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   18.25,
+   -77.5
+  ],
+  "areaKm2": 10991,
+  "featureIds": [
+   "388"
+  ],
+  "marker": false,
+  "flag": "/flags/jm.svg",
+  "unMember": true,
+  "color": 5,
+  "neighbors": []
+ },
+ {
+  "code": "JPN",
+  "iso2": "JP",
+  "isoNumeric": "392",
+  "name": "Japan",
+  "officialName": "Japan",
+  "aliases": [
+   "Nippon",
+   "Nihon"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Eastern Asia",
+  "capitals": [
+   "Tokyo"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   36,
+   138
+  ],
+  "areaKm2": 377930,
+  "featureIds": [
+   "392"
+  ],
+  "marker": false,
+  "flag": "/flags/jp.svg",
+  "unMember": true,
+  "color": 7,
+  "neighbors": []
+ },
+ {
+  "code": "JOR",
+  "iso2": "JO",
+  "isoNumeric": "400",
+  "name": "Jordan",
+  "officialName": "Hashemite Kingdom of Jordan",
+  "aliases": [
+   "Hashemite Kingdom of Jordan",
+   "al-Mamlakah al-Urdunīyah al-Hāshimīyah"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Western Asia",
+  "capitals": [
+   "Amman"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   31,
+   36
+  ],
+  "areaKm2": 89342,
+  "featureIds": [
+   "400"
+  ],
+  "marker": false,
+  "flag": "/flags/jo.svg",
+  "unMember": true,
+  "color": 10,
+  "neighbors": [
+   "IRQ",
+   "ISR",
+   "PSE",
+   "SAU",
+   "SYR"
+  ]
+ },
+ {
+  "code": "KAZ",
+  "iso2": "KZ",
+  "isoNumeric": "398",
+  "name": "Kazakhstan",
+  "officialName": "Republic of Kazakhstan",
+  "aliases": [
+   "Republic of Kazakhstan",
+   "Qazaqstan",
+   "Казахстан",
+   "Қазақстан Республикасы",
+   "Qazaqstan Respublïkası",
+   "Республика Казахстан",
+   "Respublika Kazakhstan"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Central Asia",
+  "capitals": [
+   "Astana"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   48,
+   68
+  ],
+  "areaKm2": 2724900,
+  "featureIds": [
+   "398"
+  ],
+  "marker": false,
+  "flag": "/flags/kz.svg",
+  "unMember": true,
+  "color": 6,
+  "neighbors": [
+   "CHN",
+   "KGZ",
+   "RUS",
+   "TKM",
+   "UZB"
+  ]
+ },
+ {
+  "code": "KEN",
+  "iso2": "KE",
+  "isoNumeric": "404",
+  "name": "Kenya",
+  "officialName": "Republic of Kenya",
+  "aliases": [
+   "Republic of Kenya",
+   "Jamhuri ya Kenya"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Eastern Africa",
+  "capitals": [
+   "Nairobi"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   1,
+   38
+  ],
+  "areaKm2": 580367,
+  "featureIds": [
+   "404"
+  ],
+  "marker": false,
+  "flag": "/flags/ke.svg",
+  "unMember": true,
+  "color": 11,
+  "neighbors": [
+   "ETH",
+   "SOM",
+   "SSD",
+   "TZA",
+   "UGA"
+  ]
+ },
+ {
+  "code": "KIR",
+  "iso2": "KI",
+  "isoNumeric": "296",
+  "name": "Kiribati",
+  "officialName": "Independent and Sovereign Republic of Kiribati",
+  "aliases": [
+   "Independent and Sovereign Republic of Kiribati",
+   "Republic of Kiribati",
+   "Ribaberiki Kiribati"
+  ],
+  "continents": [
+   "oceania"
+  ],
+  "subregion": "Micronesia",
+  "capitals": [
+   "South Tarawa"
+  ],
+  "capitalNote": "The capital is South Tarawa, on Tarawa atoll.",
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   1.41666666,
+   173
+  ],
+  "areaKm2": 811,
+  "featureIds": [
+   "296"
+  ],
+  "marker": true,
+  "flag": "/flags/ki.svg",
+  "unMember": true,
+  "color": 4,
+  "neighbors": []
+ },
+ {
+  "code": "UNK",
+  "iso2": "XK",
+  "isoNumeric": null,
+  "name": "Kosovo",
+  "officialName": "Republic of Kosovo",
+  "aliases": [
+   "Republic of Kosovo",
+   "Република Косово"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Southeast Europe",
+  "capitals": [
+   "Pristina"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   42.666667,
+   21.166667
+  ],
+  "areaKm2": 10908,
+  "featureIds": [
+   "name:Kosovo"
+  ],
+  "marker": false,
+  "flag": "/flags/xk.svg",
+  "unMember": false,
+  "color": 4,
+  "neighbors": [
+   "ALB",
+   "MKD",
+   "MNE",
+   "SRB"
+  ]
+ },
+ {
+  "code": "KWT",
+  "iso2": "KW",
+  "isoNumeric": "414",
+  "name": "Kuwait",
+  "officialName": "State of Kuwait",
+  "aliases": [
+   "State of Kuwait",
+   "Dawlat al-Kuwait"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Western Asia",
+  "capitals": [
+   "Kuwait City"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   29.5,
+   45.75
+  ],
+  "areaKm2": 17818,
+  "featureIds": [
+   "414"
+  ],
+  "marker": false,
+  "flag": "/flags/kw.svg",
+  "unMember": true,
+  "color": 11,
+  "neighbors": [
+   "IRQ",
+   "SAU"
+  ]
+ },
+ {
+  "code": "KGZ",
+  "iso2": "KG",
+  "isoNumeric": "417",
+  "name": "Kyrgyzstan",
+  "officialName": "Kyrgyz Republic",
+  "aliases": [
+   "Kyrgyz Republic",
+   "Киргизия",
+   "Кыргыз Республикасы",
+   "Kyrgyz Respublikasy"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Central Asia",
+  "capitals": [
+   "Bishkek"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   41,
+   75
+  ],
+  "areaKm2": 199951,
+  "featureIds": [
+   "417"
+  ],
+  "marker": false,
+  "flag": "/flags/kg.svg",
+  "unMember": true,
+  "color": 1,
+  "neighbors": [
+   "CHN",
+   "KAZ",
+   "TJK",
+   "UZB"
+  ]
+ },
+ {
+  "code": "LAO",
+  "iso2": "LA",
+  "isoNumeric": "418",
+  "name": "Laos",
+  "officialName": "Lao People's Democratic Republic",
+  "aliases": [
+   "Lao People's Democratic Republic",
+   "Sathalanalat Paxathipatai Paxaxon Lao"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "South-Eastern Asia",
+  "capitals": [
+   "Vientiane"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   18,
+   105
+  ],
+  "areaKm2": 236800,
+  "featureIds": [
+   "418"
+  ],
+  "marker": false,
+  "flag": "/flags/la.svg",
+  "unMember": true,
+  "color": 2,
+  "neighbors": [
+   "CHN",
+   "KHM",
+   "MMR",
+   "THA",
+   "VNM"
+  ]
+ },
+ {
+  "code": "LVA",
+  "iso2": "LV",
+  "isoNumeric": "428",
+  "name": "Latvia",
+  "officialName": "Republic of Latvia",
+  "aliases": [
+   "Republic of Latvia",
+   "Latvijas Republika"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Northern Europe",
+  "capitals": [
+   "Riga"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   57,
+   25
+  ],
+  "areaKm2": 64559,
+  "featureIds": [
+   "428"
+  ],
+  "marker": false,
+  "flag": "/flags/lv.svg",
+  "unMember": true,
+  "color": 3,
+  "neighbors": [
+   "BLR",
+   "EST",
+   "LTU",
+   "RUS"
+  ]
+ },
+ {
+  "code": "LBN",
+  "iso2": "LB",
+  "isoNumeric": "422",
+  "name": "Lebanon",
+  "officialName": "Lebanese Republic",
+  "aliases": [
+   "Lebanese Republic",
+   "Al-Jumhūrīyah Al-Libnānīyah"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Western Asia",
+  "capitals": [
+   "Beirut"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   33.83333333,
+   35.83333333
+  ],
+  "areaKm2": 10452,
+  "featureIds": [
+   "422"
+  ],
+  "marker": false,
+  "flag": "/flags/lb.svg",
+  "unMember": true,
+  "color": 7,
+  "neighbors": [
+   "ISR",
+   "SYR"
+  ]
+ },
+ {
+  "code": "LSO",
+  "iso2": "LS",
+  "isoNumeric": "426",
+  "name": "Lesotho",
+  "officialName": "Kingdom of Lesotho",
+  "aliases": [
+   "Kingdom of Lesotho",
+   "Muso oa Lesotho"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Southern Africa",
+  "capitals": [
+   "Maseru"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -29.5,
+   28.5
+  ],
+  "areaKm2": 30355,
+  "featureIds": [
+   "426"
+  ],
+  "marker": false,
+  "flag": "/flags/ls.svg",
+  "unMember": true,
+  "color": 11,
+  "neighbors": [
+   "ZAF"
+  ]
+ },
+ {
+  "code": "LBR",
+  "iso2": "LR",
+  "isoNumeric": "430",
+  "name": "Liberia",
+  "officialName": "Republic of Liberia",
+  "aliases": [
+   "Republic of Liberia"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Western Africa",
+  "capitals": [
+   "Monrovia"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   6.5,
+   -9.5
+  ],
+  "areaKm2": 111369,
+  "featureIds": [
+   "430"
+  ],
+  "marker": false,
+  "flag": "/flags/lr.svg",
+  "unMember": true,
+  "color": 3,
+  "neighbors": [
+   "CIV",
+   "GIN",
+   "SLE"
+  ]
+ },
+ {
+  "code": "LBY",
+  "iso2": "LY",
+  "isoNumeric": "434",
+  "name": "Libya",
+  "officialName": "State of Libya",
+  "aliases": [
+   "State of Libya",
+   "Dawlat Libya"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Northern Africa",
+  "capitals": [
+   "Tripoli"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   25,
+   17
+  ],
+  "areaKm2": 1759540,
+  "featureIds": [
+   "434"
+  ],
+  "marker": false,
+  "flag": "/flags/ly.svg",
+  "unMember": true,
+  "color": 9,
+  "neighbors": [
+   "DZA",
+   "EGY",
+   "NER",
+   "SDN",
+   "TCD",
+   "TUN"
+  ]
+ },
+ {
+  "code": "LIE",
+  "iso2": "LI",
+  "isoNumeric": "438",
+  "name": "Liechtenstein",
+  "officialName": "Principality of Liechtenstein",
+  "aliases": [
+   "Principality of Liechtenstein",
+   "Fürstentum Liechtenstein"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Western Europe",
+  "capitals": [
+   "Vaduz"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   47.26666666,
+   9.53333333
+  ],
+  "areaKm2": 160,
+  "featureIds": [
+   "438"
+  ],
+  "marker": true,
+  "flag": "/flags/li.svg",
+  "unMember": true,
+  "color": 3,
+  "neighbors": [
+   "AUT",
+   "CHE"
+  ]
+ },
+ {
+  "code": "LTU",
+  "iso2": "LT",
+  "isoNumeric": "440",
+  "name": "Lithuania",
+  "officialName": "Republic of Lithuania",
+  "aliases": [
+   "Republic of Lithuania",
+   "Lietuvos Respublika"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Northern Europe",
+  "capitals": [
+   "Vilnius"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   56,
+   24
+  ],
+  "areaKm2": 65300,
+  "featureIds": [
+   "440"
+  ],
+  "marker": false,
+  "flag": "/flags/lt.svg",
+  "unMember": true,
+  "color": 6,
+  "neighbors": [
+   "BLR",
+   "LVA",
+   "POL",
+   "RUS"
+  ]
+ },
+ {
+  "code": "LUX",
+  "iso2": "LU",
+  "isoNumeric": "442",
+  "name": "Luxembourg",
+  "officialName": "Grand Duchy of Luxembourg",
+  "aliases": [
+   "Grand Duchy of Luxembourg",
+   "Grand-Duché de Luxembourg",
+   "Großherzogtum Luxemburg",
+   "Groussherzogtum Lëtzebuerg"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Western Europe",
+  "capitals": [
+   "Luxembourg"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   49.75,
+   6.16666666
+  ],
+  "areaKm2": 2586,
+  "featureIds": [
+   "442"
+  ],
+  "marker": true,
+  "flag": "/flags/lu.svg",
+  "unMember": true,
+  "color": 8,
+  "neighbors": [
+   "BEL",
+   "DEU",
+   "FRA"
+  ]
+ },
+ {
+  "code": "MDG",
+  "iso2": "MG",
+  "isoNumeric": "450",
+  "name": "Madagascar",
+  "officialName": "Republic of Madagascar",
+  "aliases": [
+   "Republic of Madagascar",
+   "Repoblikan'i Madagasikara",
+   "République de Madagascar"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Eastern Africa",
+  "capitals": [
+   "Antananarivo"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -20,
+   47
+  ],
+  "areaKm2": 587041,
+  "featureIds": [
+   "450"
+  ],
+  "marker": false,
+  "flag": "/flags/mg.svg",
+  "unMember": true,
+  "color": 11,
+  "neighbors": []
+ },
+ {
+  "code": "MWI",
+  "iso2": "MW",
+  "isoNumeric": "454",
+  "name": "Malawi",
+  "officialName": "Republic of Malawi",
+  "aliases": [
+   "Republic of Malawi"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Eastern Africa",
+  "capitals": [
+   "Lilongwe"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -13.5,
+   34
+  ],
+  "areaKm2": 118484,
+  "featureIds": [
+   "454"
+  ],
+  "marker": false,
+  "flag": "/flags/mw.svg",
+  "unMember": true,
+  "color": 10,
+  "neighbors": [
+   "MOZ",
+   "TZA",
+   "ZMB"
+  ]
+ },
+ {
+  "code": "MYS",
+  "iso2": "MY",
+  "isoNumeric": "458",
+  "name": "Malaysia",
+  "officialName": "Malaysia",
+  "aliases": [],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "South-Eastern Asia",
+  "capitals": [
+   "Kuala Lumpur"
+  ],
+  "capitalNote": "Kuala Lumpur is the capital; most government offices are in nearby Putrajaya.",
+  "notDistractor": [
+   "Putrajaya"
+  ],
+  "skipReverse": false,
+  "latlng": [
+   2.5,
+   112.5
+  ],
+  "areaKm2": 330803,
+  "featureIds": [
+   "458"
+  ],
+  "marker": false,
+  "flag": "/flags/my.svg",
+  "unMember": true,
+  "color": 0,
+  "neighbors": [
+   "BRN",
+   "IDN",
+   "THA"
+  ]
+ },
+ {
+  "code": "MDV",
+  "iso2": "MV",
+  "isoNumeric": "462",
+  "name": "Maldives",
+  "officialName": "Republic of the Maldives",
+  "aliases": [
+   "Republic of the Maldives",
+   "Maldive Islands",
+   "Dhivehi Raajjeyge Jumhooriyya"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Southern Asia",
+  "capitals": [
+   "Malé"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   3.25,
+   73
+  ],
+  "areaKm2": 300,
+  "featureIds": [
+   "462"
+  ],
+  "marker": true,
+  "flag": "/flags/mv.svg",
+  "unMember": true,
+  "color": 10,
+  "neighbors": []
+ },
+ {
+  "code": "MLI",
+  "iso2": "ML",
+  "isoNumeric": "466",
+  "name": "Mali",
+  "officialName": "Republic of Mali",
+  "aliases": [
+   "Republic of Mali",
+   "République du Mali"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Western Africa",
+  "capitals": [
+   "Bamako"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   17,
+   -4
+  ],
+  "areaKm2": 1240192,
+  "featureIds": [
+   "466"
+  ],
+  "marker": false,
+  "flag": "/flags/ml.svg",
+  "unMember": true,
+  "color": 1,
+  "neighbors": [
+   "BFA",
+   "CIV",
+   "DZA",
+   "GIN",
+   "MRT",
+   "NER",
+   "SEN"
+  ]
+ },
+ {
+  "code": "MLT",
+  "iso2": "MT",
+  "isoNumeric": "470",
+  "name": "Malta",
+  "officialName": "Republic of Malta",
+  "aliases": [
+   "Republic of Malta",
+   "Repubblika ta' Malta"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Southern Europe",
+  "capitals": [
+   "Valletta"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   35.83333333,
+   14.58333333
+  ],
+  "areaKm2": 316,
+  "featureIds": [
+   "470"
+  ],
+  "marker": true,
+  "flag": "/flags/mt.svg",
+  "unMember": true,
+  "color": 2,
+  "neighbors": []
+ },
+ {
+  "code": "MHL",
+  "iso2": "MH",
+  "isoNumeric": "584",
+  "name": "Marshall Islands",
+  "officialName": "Republic of the Marshall Islands",
+  "aliases": [
+   "Republic of the Marshall Islands",
+   "Aolepān Aorōkin M̧ajeļ"
+  ],
+  "continents": [
+   "oceania"
+  ],
+  "subregion": "Micronesia",
+  "capitals": [
+   "Majuro"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   9,
+   168
+  ],
+  "areaKm2": 181,
+  "featureIds": [
+   "584"
+  ],
+  "marker": true,
+  "flag": "/flags/mh.svg",
+  "unMember": true,
+  "color": 0,
+  "neighbors": []
+ },
+ {
+  "code": "MRT",
+  "iso2": "MR",
+  "isoNumeric": "478",
+  "name": "Mauritania",
+  "officialName": "Islamic Republic of Mauritania",
+  "aliases": [
+   "Islamic Republic of Mauritania",
+   "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Western Africa",
+  "capitals": [
+   "Nouakchott"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   20,
+   -12
+  ],
+  "areaKm2": 1030700,
+  "featureIds": [
+   "478"
+  ],
+  "marker": false,
+  "flag": "/flags/mr.svg",
+  "unMember": true,
+  "color": 9,
+  "neighbors": [
+   "DZA",
+   "MLI",
+   "SEN"
+  ]
+ },
+ {
+  "code": "MUS",
+  "iso2": "MU",
+  "isoNumeric": "480",
+  "name": "Mauritius",
+  "officialName": "Republic of Mauritius",
+  "aliases": [
+   "Republic of Mauritius",
+   "République de Maurice"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Eastern Africa",
+  "capitals": [
+   "Port Louis"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -20.28333333,
+   57.55
+  ],
+  "areaKm2": 2040,
+  "featureIds": [
+   "480"
+  ],
+  "marker": true,
+  "flag": "/flags/mu.svg",
+  "unMember": true,
+  "color": 0,
+  "neighbors": []
+ },
+ {
+  "code": "MEX",
+  "iso2": "MX",
+  "isoNumeric": "484",
+  "name": "Mexico",
+  "officialName": "United Mexican States",
+  "aliases": [
+   "United Mexican States",
+   "Mexicanos",
+   "Estados Unidos Mexicanos"
+  ],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "North America",
+  "capitals": [
+   "Mexico City"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   23,
+   -102
+  ],
+  "areaKm2": 1964375,
+  "featureIds": [
+   "484"
+  ],
+  "marker": false,
+  "flag": "/flags/mx.svg",
+  "unMember": true,
+  "color": 11,
+  "neighbors": [
+   "BLZ",
+   "GTM",
+   "USA"
+  ]
+ },
+ {
+  "code": "FSM",
+  "iso2": "FM",
+  "isoNumeric": "583",
+  "name": "Micronesia",
+  "officialName": "Federated States of Micronesia",
+  "aliases": [
+   "Federated States of Micronesia",
+   "Micronesia, Federated States of"
+  ],
+  "continents": [
+   "oceania"
+  ],
+  "subregion": "Micronesia",
+  "capitals": [
+   "Palikir"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   6.91666666,
+   158.25
+  ],
+  "areaKm2": 702,
+  "featureIds": [
+   "583"
+  ],
+  "marker": true,
+  "flag": "/flags/fm.svg",
+  "unMember": true,
+  "color": 3,
+  "neighbors": []
+ },
+ {
+  "code": "MDA",
+  "iso2": "MD",
+  "isoNumeric": "498",
+  "name": "Moldova",
+  "officialName": "Republic of Moldova",
+  "aliases": [
+   "Republic of Moldova",
+   "Moldova, Republic of",
+   "Republica Moldova"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Eastern Europe",
+  "capitals": [
+   "Chișinău"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   47,
+   29
+  ],
+  "areaKm2": 33846,
+  "featureIds": [
+   "498"
+  ],
+  "marker": false,
+  "flag": "/flags/md.svg",
+  "unMember": true,
+  "color": 5,
+  "neighbors": [
+   "ROU",
+   "UKR"
+  ]
+ },
+ {
+  "code": "MCO",
+  "iso2": "MC",
+  "isoNumeric": "492",
+  "name": "Monaco",
+  "officialName": "Principality of Monaco",
+  "aliases": [
+   "Principality of Monaco",
+   "Principauté de Monaco"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Western Europe",
+  "capitals": [
+   "Monaco"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   43.73333333,
+   7.4
+  ],
+  "areaKm2": 2.02,
+  "featureIds": [
+   "492"
+  ],
+  "marker": true,
+  "flag": "/flags/mc.svg",
+  "unMember": true,
+  "color": 1,
+  "neighbors": [
+   "FRA"
+  ]
+ },
+ {
+  "code": "MNG",
+  "iso2": "MN",
+  "isoNumeric": "496",
+  "name": "Mongolia",
+  "officialName": "Mongolia",
+  "aliases": [],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Eastern Asia",
+  "capitals": [
+   "Ulan Bator"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   46,
+   105
+  ],
+  "areaKm2": 1564110,
+  "featureIds": [
+   "496"
+  ],
+  "marker": false,
+  "flag": "/flags/mn.svg",
+  "unMember": true,
+  "color": 1,
+  "neighbors": [
+   "CHN",
+   "RUS"
+  ]
+ },
+ {
+  "code": "MNE",
+  "iso2": "ME",
+  "isoNumeric": "499",
+  "name": "Montenegro",
+  "officialName": "Montenegro",
+  "aliases": [
+   "Crna Gora"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Southeast Europe",
+  "capitals": [
+   "Podgorica"
+  ],
+  "capitalNote": "Podgorica is the capital; Cetinje holds the title of Old Royal Capital.",
+  "notDistractor": [
+   "Cetinje"
+  ],
+  "skipReverse": false,
+  "latlng": [
+   42.5,
+   19.3
+  ],
+  "areaKm2": 13812,
+  "featureIds": [
+   "499"
+  ],
+  "marker": false,
+  "flag": "/flags/me.svg",
+  "unMember": true,
+  "color": 3,
+  "neighbors": [
+   "ALB",
+   "BIH",
+   "HRV",
+   "SRB",
+   "UNK"
+  ]
+ },
+ {
+  "code": "MAR",
+  "iso2": "MA",
+  "isoNumeric": "504",
+  "name": "Morocco",
+  "officialName": "Kingdom of Morocco",
+  "aliases": [
+   "Kingdom of Morocco",
+   "Al-Mamlakah al-Maġribiyah"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Northern Africa",
+  "capitals": [
+   "Rabat"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   32,
+   -5
+  ],
+  "areaKm2": 446550,
+  "featureIds": [
+   "504"
+  ],
+  "marker": false,
+  "flag": "/flags/ma.svg",
+  "unMember": true,
+  "color": 0,
+  "neighbors": [
+   "DZA"
+  ]
+ },
+ {
+  "code": "MOZ",
+  "iso2": "MZ",
+  "isoNumeric": "508",
+  "name": "Mozambique",
+  "officialName": "Republic of Mozambique",
+  "aliases": [
+   "Republic of Mozambique",
+   "República de Moçambique"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Eastern Africa",
+  "capitals": [
+   "Maputo"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -18.25,
+   35
+  ],
+  "areaKm2": 801590,
+  "featureIds": [
+   "508"
+  ],
+  "marker": false,
+  "flag": "/flags/mz.svg",
+  "unMember": true,
+  "color": 0,
+  "neighbors": [
+   "MWI",
+   "SWZ",
+   "TZA",
+   "ZAF",
+   "ZMB",
+   "ZWE"
+  ]
+ },
+ {
+  "code": "MMR",
+  "iso2": "MM",
+  "isoNumeric": "104",
+  "name": "Myanmar",
+  "officialName": "Republic of the Union of Myanmar",
+  "aliases": [
+   "Republic of the Union of Myanmar",
+   "Burma",
+   "Pyidaunzu Thanmăda Myăma Nainngandaw"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "South-Eastern Asia",
+  "capitals": [
+   "Naypyidaw"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   22,
+   98
+  ],
+  "areaKm2": 676578,
+  "featureIds": [
+   "104"
+  ],
+  "marker": false,
+  "flag": "/flags/mm.svg",
+  "unMember": true,
+  "color": 9,
+  "neighbors": [
+   "BGD",
+   "CHN",
+   "IND",
+   "LAO",
+   "THA"
+  ]
+ },
+ {
+  "code": "NAM",
+  "iso2": "NA",
+  "isoNumeric": "516",
+  "name": "Namibia",
+  "officialName": "Republic of Namibia",
+  "aliases": [
+   "Republic of Namibia",
+   "Namibië"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Southern Africa",
+  "capitals": [
+   "Windhoek"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -22,
+   17
+  ],
+  "areaKm2": 825615,
+  "featureIds": [
+   "516"
+  ],
+  "marker": false,
+  "flag": "/flags/na.svg",
+  "unMember": true,
+  "color": 1,
+  "neighbors": [
+   "AGO",
+   "BWA",
+   "ZAF",
+   "ZMB"
+  ]
+ },
+ {
+  "code": "NRU",
+  "iso2": "NR",
+  "isoNumeric": "520",
+  "name": "Nauru",
+  "officialName": "Republic of Nauru",
+  "aliases": [
+   "Republic of Nauru",
+   "Naoero",
+   "Pleasant Island",
+   "Ripublik Naoero"
+  ],
+  "continents": [
+   "oceania"
+  ],
+  "subregion": "Micronesia",
+  "capitals": [
+   "Yaren"
+  ],
+  "capitalNote": "Nauru has no official capital; government offices are in Yaren District.",
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -0.53333333,
+   166.91666666
+  ],
+  "areaKm2": 21,
+  "featureIds": [
+   "520"
+  ],
+  "marker": true,
+  "flag": "/flags/nr.svg",
+  "unMember": true,
+  "color": 6,
+  "neighbors": []
+ },
+ {
+  "code": "NPL",
+  "iso2": "NP",
+  "isoNumeric": "524",
+  "name": "Nepal",
+  "officialName": "Federal Democratic Republic of Nepal",
+  "aliases": [
+   "Federal Democratic Republic of Nepal",
+   "Loktāntrik Ganatantra Nepāl"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Southern Asia",
+  "capitals": [
+   "Kathmandu"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   28,
+   84
+  ],
+  "areaKm2": 147181,
+  "featureIds": [
+   "524"
+  ],
+  "marker": false,
+  "flag": "/flags/np.svg",
+  "unMember": true,
+  "color": 2,
+  "neighbors": [
+   "CHN",
+   "IND"
+  ]
+ },
+ {
+  "code": "NLD",
+  "iso2": "NL",
+  "isoNumeric": "528",
+  "name": "Netherlands",
+  "officialName": "Kingdom of the Netherlands",
+  "aliases": [
+   "Kingdom of the Netherlands",
+   "Holland",
+   "Nederland",
+   "The Netherlands"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Western Europe",
+  "capitals": [
+   "Amsterdam"
+  ],
+  "capitalNote": "Amsterdam is the capital, but the government and parliament sit in The Hague.",
+  "notDistractor": [
+   "The Hague"
+  ],
+  "skipReverse": false,
+  "latlng": [
+   52.5,
+   5.75
+  ],
+  "areaKm2": 41850,
+  "featureIds": [
+   "528"
+  ],
+  "marker": false,
+  "flag": "/flags/nl.svg",
+  "unMember": true,
+  "color": 6,
+  "neighbors": [
+   "BEL",
+   "DEU"
+  ]
+ },
+ {
+  "code": "NZL",
+  "iso2": "NZ",
+  "isoNumeric": "554",
+  "name": "New Zealand",
+  "officialName": "New Zealand",
+  "aliases": [
+   "Aotearoa"
+  ],
+  "continents": [
+   "oceania"
+  ],
+  "subregion": "Australia and New Zealand",
+  "capitals": [
+   "Wellington"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -41,
+   174
+  ],
+  "areaKm2": 270467,
+  "featureIds": [
+   "554"
+  ],
+  "marker": false,
+  "flag": "/flags/nz.svg",
+  "unMember": true,
+  "color": 7,
+  "neighbors": []
+ },
+ {
+  "code": "NIC",
+  "iso2": "NI",
+  "isoNumeric": "558",
+  "name": "Nicaragua",
+  "officialName": "Republic of Nicaragua",
+  "aliases": [
+   "Republic of Nicaragua",
+   "República de Nicaragua"
+  ],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Central America",
+  "capitals": [
+   "Managua"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   13,
+   -85
+  ],
+  "areaKm2": 130373,
+  "featureIds": [
+   "558"
+  ],
+  "marker": false,
+  "flag": "/flags/ni.svg",
+  "unMember": true,
+  "color": 4,
+  "neighbors": [
+   "CRI",
+   "HND"
+  ]
+ },
+ {
+  "code": "NER",
+  "iso2": "NE",
+  "isoNumeric": "562",
+  "name": "Niger",
+  "officialName": "Republic of Niger",
+  "aliases": [
+   "Republic of Niger",
+   "Nijar"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Western Africa",
+  "capitals": [
+   "Niamey"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   16,
+   8
+  ],
+  "areaKm2": 1267000,
+  "featureIds": [
+   "562"
+  ],
+  "marker": false,
+  "flag": "/flags/ne.svg",
+  "unMember": true,
+  "color": 4,
+  "neighbors": [
+   "BEN",
+   "BFA",
+   "DZA",
+   "LBY",
+   "MLI",
+   "NGA",
+   "TCD"
+  ]
+ },
+ {
+  "code": "NGA",
+  "iso2": "NG",
+  "isoNumeric": "566",
+  "name": "Nigeria",
+  "officialName": "Federal Republic of Nigeria",
+  "aliases": [
+   "Federal Republic of Nigeria",
+   "Nijeriya",
+   "Naíjíríà"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Western Africa",
+  "capitals": [
+   "Abuja"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   10,
+   8
+  ],
+  "areaKm2": 923768,
+  "featureIds": [
+   "566"
+  ],
+  "marker": false,
+  "flag": "/flags/ng.svg",
+  "unMember": true,
+  "color": 7,
+  "neighbors": [
+   "BEN",
+   "CMR",
+   "NER",
+   "TCD"
+  ]
+ },
+ {
+  "code": "PRK",
+  "iso2": "KP",
+  "isoNumeric": "408",
+  "name": "North Korea",
+  "officialName": "Democratic People's Republic of Korea",
+  "aliases": [
+   "Democratic People's Republic of Korea",
+   "DPRK",
+   "조선민주주의인민공화국",
+   "Chosŏn Minjujuŭi Inmin Konghwaguk",
+   "Korea, Democratic People's Republic of"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Eastern Asia",
+  "capitals": [
+   "Pyongyang"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   40,
+   127
+  ],
+  "areaKm2": 120538,
+  "featureIds": [
+   "408"
+  ],
+  "marker": false,
+  "flag": "/flags/kp.svg",
+  "unMember": true,
+  "color": 2,
+  "neighbors": [
+   "CHN",
+   "KOR",
+   "RUS"
+  ]
+ },
+ {
+  "code": "MKD",
+  "iso2": "MK",
+  "isoNumeric": "807",
+  "name": "North Macedonia",
+  "officialName": "Republic of North Macedonia",
+  "aliases": [
+   "Republic of North Macedonia",
+   "The former Yugoslav Republic of Macedonia",
+   "Macedonia, The Former Yugoslav Republic of",
+   "Република Северна Македонија",
+   "Macedonia"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Southeast Europe",
+  "capitals": [
+   "Skopje"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   41.83333333,
+   22
+  ],
+  "areaKm2": 25713,
+  "featureIds": [
+   "807"
+  ],
+  "marker": false,
+  "flag": "/flags/mk.svg",
+  "unMember": true,
+  "color": 1,
+  "neighbors": [
+   "ALB",
+   "BGR",
+   "GRC",
+   "SRB",
+   "UNK"
+  ]
+ },
+ {
+  "code": "NOR",
+  "iso2": "NO",
+  "isoNumeric": "578",
+  "name": "Norway",
+  "officialName": "Kingdom of Norway",
+  "aliases": [
+   "Kingdom of Norway",
+   "Norge",
+   "Noreg",
+   "Kongeriket Norge",
+   "Kongeriket Noreg"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Northern Europe",
+  "capitals": [
+   "Oslo"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   62,
+   10
+  ],
+  "areaKm2": 323802,
+  "featureIds": [
+   "578"
+  ],
+  "marker": false,
+  "flag": "/flags/no.svg",
+  "unMember": true,
+  "color": 6,
+  "neighbors": [
+   "FIN",
+   "RUS",
+   "SWE"
+  ]
+ },
+ {
+  "code": "OMN",
+  "iso2": "OM",
+  "isoNumeric": "512",
+  "name": "Oman",
+  "officialName": "Sultanate of Oman",
+  "aliases": [
+   "Sultanate of Oman",
+   "Salṭanat ʻUmān"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Western Asia",
+  "capitals": [
+   "Muscat"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   21,
+   57
+  ],
+  "areaKm2": 309500,
+  "featureIds": [
+   "512"
+  ],
+  "marker": false,
+  "flag": "/flags/om.svg",
+  "unMember": true,
+  "color": 1,
+  "neighbors": [
+   "ARE",
+   "SAU",
+   "YEM"
+  ]
+ },
+ {
+  "code": "PAK",
+  "iso2": "PK",
+  "isoNumeric": "586",
+  "name": "Pakistan",
+  "officialName": "Islamic Republic of Pakistan",
+  "aliases": [
+   "Islamic Republic of Pakistan",
+   "Pākistān",
+   "Islāmī Jumhūriya'eh Pākistān"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Southern Asia",
+  "capitals": [
+   "Islamabad"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   30,
+   70
+  ],
+  "areaKm2": 881912,
+  "featureIds": [
+   "586"
+  ],
+  "marker": false,
+  "flag": "/flags/pk.svg",
+  "unMember": true,
+  "color": 2,
+  "neighbors": [
+   "AFG",
+   "CHN",
+   "IND",
+   "IRN"
+  ]
+ },
+ {
+  "code": "PLW",
+  "iso2": "PW",
+  "isoNumeric": "585",
+  "name": "Palau",
+  "officialName": "Republic of Palau",
+  "aliases": [
+   "Republic of Palau",
+   "Beluu er a Belau"
+  ],
+  "continents": [
+   "oceania"
+  ],
+  "subregion": "Micronesia",
+  "capitals": [
+   "Ngerulmud"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   7.5,
+   134.5
+  ],
+  "areaKm2": 459,
+  "featureIds": [
+   "585"
+  ],
+  "marker": true,
+  "flag": "/flags/pw.svg",
+  "unMember": true,
+  "color": 8,
+  "neighbors": []
+ },
+ {
+  "code": "PSE",
+  "iso2": "PS",
+  "isoNumeric": "275",
+  "name": "Palestine",
+  "officialName": "State of Palestine",
+  "aliases": [
+   "State of Palestine",
+   "Palestine, State of",
+   "Dawlat Filasṭin"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Western Asia",
+  "capitals": [
+   "Ramallah",
+   "East Jerusalem"
+  ],
+  "capitalNote": "Palestine proclaims East Jerusalem as its capital; the government is based in Ramallah.",
+  "notDistractor": [],
+  "skipReverse": true,
+  "latlng": [
+   31.9,
+   35.2
+  ],
+  "areaKm2": 6220,
+  "featureIds": [
+   "275"
+  ],
+  "marker": false,
+  "flag": "/flags/ps.svg",
+  "unMember": false,
+  "color": 4,
+  "neighbors": [
+   "EGY",
+   "ISR",
+   "JOR"
+  ]
+ },
+ {
+  "code": "PAN",
+  "iso2": "PA",
+  "isoNumeric": "591",
+  "name": "Panama",
+  "officialName": "Republic of Panama",
+  "aliases": [
+   "Republic of Panama",
+   "República de Panamá"
+  ],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Central America",
+  "capitals": [
+   "Panama City"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   9,
+   -80
+  ],
+  "areaKm2": 75417,
+  "featureIds": [
+   "591"
+  ],
+  "marker": false,
+  "flag": "/flags/pa.svg",
+  "unMember": true,
+  "color": 10,
+  "neighbors": [
+   "COL",
+   "CRI"
+  ]
+ },
+ {
+  "code": "PNG",
+  "iso2": "PG",
+  "isoNumeric": "598",
+  "name": "Papua New Guinea",
+  "officialName": "Independent State of Papua New Guinea",
+  "aliases": [
+   "Independent State of Papua New Guinea",
+   "Independen Stet bilong Papua Niugini"
+  ],
+  "continents": [
+   "oceania"
+  ],
+  "subregion": "Melanesia",
+  "capitals": [
+   "Port Moresby"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -6,
+   147
+  ],
+  "areaKm2": 462840,
+  "featureIds": [
+   "598"
+  ],
+  "marker": false,
+  "flag": "/flags/pg.svg",
+  "unMember": true,
+  "color": 2,
+  "neighbors": [
+   "IDN"
+  ]
+ },
+ {
+  "code": "PRY",
+  "iso2": "PY",
+  "isoNumeric": "600",
+  "name": "Paraguay",
+  "officialName": "Republic of Paraguay",
+  "aliases": [
+   "Republic of Paraguay",
+   "República del Paraguay",
+   "Tetã Paraguái"
+  ],
+  "continents": [
+   "south-america"
+  ],
+  "subregion": "South America",
+  "capitals": [
+   "Asunción"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -23,
+   -58
+  ],
+  "areaKm2": 406752,
+  "featureIds": [
+   "600"
+  ],
+  "marker": false,
+  "flag": "/flags/py.svg",
+  "unMember": true,
+  "color": 5,
+  "neighbors": [
+   "ARG",
+   "BOL",
+   "BRA"
+  ]
+ },
+ {
+  "code": "PER",
+  "iso2": "PE",
+  "isoNumeric": "604",
+  "name": "Peru",
+  "officialName": "Republic of Peru",
+  "aliases": [
+   "Republic of Peru",
+   "República del Perú"
+  ],
+  "continents": [
+   "south-america"
+  ],
+  "subregion": "South America",
+  "capitals": [
+   "Lima"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -10,
+   -76
+  ],
+  "areaKm2": 1285216,
+  "featureIds": [
+   "604"
+  ],
+  "marker": false,
+  "flag": "/flags/pe.svg",
+  "unMember": true,
+  "color": 4,
+  "neighbors": [
+   "BOL",
+   "BRA",
+   "CHL",
+   "COL",
+   "ECU"
+  ]
+ },
+ {
+  "code": "PHL",
+  "iso2": "PH",
+  "isoNumeric": "608",
+  "name": "Philippines",
+  "officialName": "Republic of the Philippines",
+  "aliases": [
+   "Republic of the Philippines",
+   "Repúblika ng Pilipinas"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "South-Eastern Asia",
+  "capitals": [
+   "Manila"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   13,
+   122
+  ],
+  "areaKm2": 342353,
+  "featureIds": [
+   "608"
+  ],
+  "marker": false,
+  "flag": "/flags/ph.svg",
+  "unMember": true,
+  "color": 11,
+  "neighbors": []
+ },
+ {
+  "code": "POL",
+  "iso2": "PL",
+  "isoNumeric": "616",
+  "name": "Poland",
+  "officialName": "Republic of Poland",
+  "aliases": [
+   "Republic of Poland",
+   "Rzeczpospolita Polska"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Central Europe",
+  "capitals": [
+   "Warsaw"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   52,
+   20
+  ],
+  "areaKm2": 312679,
+  "featureIds": [
+   "616"
+  ],
+  "marker": false,
+  "flag": "/flags/pl.svg",
+  "unMember": true,
+  "color": 10,
+  "neighbors": [
+   "BLR",
+   "CZE",
+   "DEU",
+   "LTU",
+   "RUS",
+   "SVK",
+   "UKR"
+  ]
+ },
+ {
+  "code": "PRT",
+  "iso2": "PT",
+  "isoNumeric": "620",
+  "name": "Portugal",
+  "officialName": "Portuguese Republic",
+  "aliases": [
+   "Portuguese Republic",
+   "Portuguesa",
+   "República Portuguesa"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Southern Europe",
+  "capitals": [
+   "Lisbon"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   39.5,
+   -8
+  ],
+  "areaKm2": 92090,
+  "featureIds": [
+   "620"
+  ],
+  "marker": false,
+  "flag": "/flags/pt.svg",
+  "unMember": true,
+  "color": 5,
+  "neighbors": [
+   "ESP"
+  ]
+ },
+ {
+  "code": "QAT",
+  "iso2": "QA",
+  "isoNumeric": "634",
+  "name": "Qatar",
+  "officialName": "State of Qatar",
+  "aliases": [
+   "State of Qatar",
+   "Dawlat Qaṭar"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Western Asia",
+  "capitals": [
+   "Doha"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   25.5,
+   51.25
+  ],
+  "areaKm2": 11586,
+  "featureIds": [
+   "634"
+  ],
+  "marker": false,
+  "flag": "/flags/qa.svg",
+  "unMember": true,
+  "color": 3,
+  "neighbors": [
+   "SAU"
+  ]
+ },
+ {
+  "code": "COG",
+  "iso2": "CG",
+  "isoNumeric": "178",
+  "name": "Republic of the Congo",
+  "officialName": "Republic of the Congo",
+  "aliases": [
+   "Congo",
+   "Congo-Brazzaville"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Middle Africa",
+  "capitals": [
+   "Brazzaville"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -1,
+   15
+  ],
+  "areaKm2": 342000,
+  "featureIds": [
+   "178"
+  ],
+  "marker": false,
+  "flag": "/flags/cg.svg",
+  "unMember": true,
+  "color": 5,
+  "neighbors": [
+   "AGO",
+   "CAF",
+   "CMR",
+   "COD",
+   "GAB"
+  ]
+ },
+ {
+  "code": "ROU",
+  "iso2": "RO",
+  "isoNumeric": "642",
+  "name": "Romania",
+  "officialName": "Romania",
+  "aliases": [
+   "Rumania",
+   "Roumania",
+   "România"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Southeast Europe",
+  "capitals": [
+   "Bucharest"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   46,
+   25
+  ],
+  "areaKm2": 238391,
+  "featureIds": [
+   "642"
+  ],
+  "marker": false,
+  "flag": "/flags/ro.svg",
+  "unMember": true,
+  "color": 0,
+  "neighbors": [
+   "BGR",
+   "HUN",
+   "MDA",
+   "SRB",
+   "UKR"
+  ]
+ },
+ {
+  "code": "RUS",
+  "iso2": "RU",
+  "isoNumeric": "643",
+  "name": "Russia",
+  "officialName": "Russian Federation",
+  "aliases": [
+   "Russian Federation",
+   "Российская Федерация"
+  ],
+  "continents": [
+   "europe",
+   "asia"
+  ],
+  "subregion": "Eastern Europe",
+  "capitals": [
+   "Moscow"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   60,
+   100
+  ],
+  "areaKm2": 17098242,
+  "featureIds": [
+   "643"
+  ],
+  "marker": false,
+  "flag": "/flags/ru.svg",
+  "unMember": true,
+  "color": 7,
+  "neighbors": [
+   "AZE",
+   "BLR",
+   "CHN",
+   "EST",
+   "FIN",
+   "GEO",
+   "KAZ",
+   "LTU",
+   "LVA",
+   "MNG",
+   "NOR",
+   "POL",
+   "PRK",
+   "UKR"
+  ]
+ },
+ {
+  "code": "RWA",
+  "iso2": "RW",
+  "isoNumeric": "646",
+  "name": "Rwanda",
+  "officialName": "Republic of Rwanda",
+  "aliases": [
+   "Republic of Rwanda",
+   "Repubulika y'u Rwanda",
+   "République du Rwanda"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Eastern Africa",
+  "capitals": [
+   "Kigali"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -2,
+   30
+  ],
+  "areaKm2": 26338,
+  "featureIds": [
+   "646"
+  ],
+  "marker": false,
+  "flag": "/flags/rw.svg",
+  "unMember": true,
+  "color": 11,
+  "neighbors": [
+   "BDI",
+   "COD",
+   "TZA",
+   "UGA"
+  ]
+ },
+ {
+  "code": "KNA",
+  "iso2": "KN",
+  "isoNumeric": "659",
+  "name": "Saint Kitts and Nevis",
+  "officialName": "Federation of Saint Christopher and Nevis",
+  "aliases": [
+   "Federation of Saint Christopher and Nevis"
+  ],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Caribbean",
+  "capitals": [
+   "Basseterre"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   17.33333333,
+   -62.75
+  ],
+  "areaKm2": 261,
+  "featureIds": [
+   "659"
+  ],
+  "marker": true,
+  "flag": "/flags/kn.svg",
+  "unMember": true,
+  "color": 9,
+  "neighbors": []
+ },
+ {
+  "code": "LCA",
+  "iso2": "LC",
+  "isoNumeric": "662",
+  "name": "Saint Lucia",
+  "officialName": "Saint Lucia",
+  "aliases": [],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Caribbean",
+  "capitals": [
+   "Castries"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   13.88333333,
+   -60.96666666
+  ],
+  "areaKm2": 616,
+  "featureIds": [
+   "662"
+  ],
+  "marker": true,
+  "flag": "/flags/lc.svg",
+  "unMember": true,
+  "color": 2,
+  "neighbors": []
+ },
+ {
+  "code": "VCT",
+  "iso2": "VC",
+  "isoNumeric": "670",
+  "name": "Saint Vincent and the Grenadines",
+  "officialName": "Saint Vincent and the Grenadines",
+  "aliases": [],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Caribbean",
+  "capitals": [
+   "Kingstown"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   13.25,
+   -61.2
+  ],
+  "areaKm2": 389,
+  "featureIds": [
+   "670"
+  ],
+  "marker": true,
+  "flag": "/flags/vc.svg",
+  "unMember": true,
+  "color": 9,
+  "neighbors": []
+ },
+ {
+  "code": "WSM",
+  "iso2": "WS",
+  "isoNumeric": "882",
+  "name": "Samoa",
+  "officialName": "Independent State of Samoa",
+  "aliases": [
+   "Independent State of Samoa",
+   "Malo Saʻoloto Tutoʻatasi o Sāmoa"
+  ],
+  "continents": [
+   "oceania"
+  ],
+  "subregion": "Polynesia",
+  "capitals": [
+   "Apia"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -13.58333333,
+   -172.33333333
+  ],
+  "areaKm2": 2842,
+  "featureIds": [
+   "882"
+  ],
+  "marker": false,
+  "flag": "/flags/ws.svg",
+  "unMember": true,
+  "color": 10,
+  "neighbors": []
+ },
+ {
+  "code": "SMR",
+  "iso2": "SM",
+  "isoNumeric": "674",
+  "name": "San Marino",
+  "officialName": "Most Serene Republic of San Marino",
+  "aliases": [
+   "Most Serene Republic of San Marino",
+   "Republic of San Marino",
+   "Repubblica di San Marino"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Southern Europe",
+  "capitals": [
+   "City of San Marino"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   43.76666666,
+   12.41666666
+  ],
+  "areaKm2": 61,
+  "featureIds": [
+   "674"
+  ],
+  "marker": true,
+  "flag": "/flags/sm.svg",
+  "unMember": true,
+  "color": 4,
+  "neighbors": [
+   "ITA"
+  ]
+ },
+ {
+  "code": "STP",
+  "iso2": "ST",
+  "isoNumeric": "678",
+  "name": "São Tomé and Príncipe",
+  "officialName": "Democratic Republic of São Tomé and Príncipe",
+  "aliases": [
+   "Democratic Republic of São Tomé and Príncipe",
+   "Sao Tome and Principe",
+   "República Democrática de São Tomé e Príncipe"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Middle Africa",
+  "capitals": [
+   "São Tomé"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   1,
+   7
+  ],
+  "areaKm2": 964,
+  "featureIds": [
+   "678"
+  ],
+  "marker": true,
+  "flag": "/flags/st.svg",
+  "unMember": true,
+  "color": 4,
+  "neighbors": []
+ },
+ {
+  "code": "SAU",
+  "iso2": "SA",
+  "isoNumeric": "682",
+  "name": "Saudi Arabia",
+  "officialName": "Kingdom of Saudi Arabia",
+  "aliases": [
+   "Kingdom of Saudi Arabia",
+   "Saudi",
+   "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Western Asia",
+  "capitals": [
+   "Riyadh"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   25,
+   45
+  ],
+  "areaKm2": 2149690,
+  "featureIds": [
+   "682"
+  ],
+  "marker": false,
+  "flag": "/flags/sa.svg",
+  "unMember": true,
+  "color": 0,
+  "neighbors": [
+   "ARE",
+   "IRQ",
+   "JOR",
+   "KWT",
+   "OMN",
+   "QAT",
+   "YEM"
+  ]
+ },
+ {
+  "code": "SEN",
+  "iso2": "SN",
+  "isoNumeric": "686",
+  "name": "Senegal",
+  "officialName": "Republic of Senegal",
+  "aliases": [
+   "Republic of Senegal",
+   "République du Sénégal"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Western Africa",
+  "capitals": [
+   "Dakar"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   14,
+   -14
+  ],
+  "areaKm2": 196722,
+  "featureIds": [
+   "686"
+  ],
+  "marker": false,
+  "flag": "/flags/sn.svg",
+  "unMember": true,
+  "color": 5,
+  "neighbors": [
+   "GIN",
+   "GMB",
+   "GNB",
+   "MLI",
+   "MRT"
+  ]
+ },
+ {
+  "code": "SRB",
+  "iso2": "RS",
+  "isoNumeric": "688",
+  "name": "Serbia",
+  "officialName": "Republic of Serbia",
+  "aliases": [
+   "Republic of Serbia",
+   "Srbija",
+   "Republika Srbija",
+   "Србија",
+   "Република Србија"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Southeast Europe",
+  "capitals": [
+   "Belgrade"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   44,
+   21
+  ],
+  "areaKm2": 88361,
+  "featureIds": [
+   "688"
+  ],
+  "marker": false,
+  "flag": "/flags/rs.svg",
+  "unMember": true,
+  "color": 9,
+  "neighbors": [
+   "BGR",
+   "BIH",
+   "HRV",
+   "HUN",
+   "MKD",
+   "MNE",
+   "ROU",
+   "UNK"
+  ]
+ },
+ {
+  "code": "SYC",
+  "iso2": "SC",
+  "isoNumeric": "690",
+  "name": "Seychelles",
+  "officialName": "Republic of Seychelles",
+  "aliases": [
+   "Republic of Seychelles",
+   "Repiblik Sesel",
+   "République des Seychelles"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Eastern Africa",
+  "capitals": [
+   "Victoria"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -4.58333333,
+   55.66666666
+  ],
+  "areaKm2": 452,
+  "featureIds": [
+   "690"
+  ],
+  "marker": true,
+  "flag": "/flags/sc.svg",
+  "unMember": true,
+  "color": 9,
+  "neighbors": []
+ },
+ {
+  "code": "SLE",
+  "iso2": "SL",
+  "isoNumeric": "694",
+  "name": "Sierra Leone",
+  "officialName": "Republic of Sierra Leone",
+  "aliases": [
+   "Republic of Sierra Leone"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Western Africa",
+  "capitals": [
+   "Freetown"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   8.5,
+   -11.5
+  ],
+  "areaKm2": 71740,
+  "featureIds": [
+   "694"
+  ],
+  "marker": false,
+  "flag": "/flags/sl.svg",
+  "unMember": true,
+  "color": 8,
+  "neighbors": [
+   "GIN",
+   "LBR"
+  ]
+ },
+ {
+  "code": "SGP",
+  "iso2": "SG",
+  "isoNumeric": "702",
+  "name": "Singapore",
+  "officialName": "Republic of Singapore",
+  "aliases": [
+   "Republic of Singapore",
+   "Singapura",
+   "Republik Singapura",
+   "新加坡共和国"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "South-Eastern Asia",
+  "capitals": [
+   "Singapore"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   1.36666666,
+   103.8
+  ],
+  "areaKm2": 710,
+  "featureIds": [
+   "702"
+  ],
+  "marker": true,
+  "flag": "/flags/sg.svg",
+  "unMember": true,
+  "color": 1,
+  "neighbors": []
+ },
+ {
+  "code": "SVK",
+  "iso2": "SK",
+  "isoNumeric": "703",
+  "name": "Slovakia",
+  "officialName": "Slovak Republic",
+  "aliases": [
+   "Slovak Republic",
+   "Slovenská republika"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Central Europe",
+  "capitals": [
+   "Bratislava"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   48.66666666,
+   19.5
+  ],
+  "areaKm2": 49037,
+  "featureIds": [
+   "703"
+  ],
+  "marker": false,
+  "flag": "/flags/sk.svg",
+  "unMember": true,
+  "color": 7,
+  "neighbors": [
+   "AUT",
+   "CZE",
+   "HUN",
+   "POL",
+   "UKR"
+  ]
+ },
+ {
+  "code": "SVN",
+  "iso2": "SI",
+  "isoNumeric": "705",
+  "name": "Slovenia",
+  "officialName": "Republic of Slovenia",
+  "aliases": [
+   "Republic of Slovenia",
+   "Republika Slovenija"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Central Europe",
+  "capitals": [
+   "Ljubljana"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   46.11666666,
+   14.81666666
+  ],
+  "areaKm2": 20273,
+  "featureIds": [
+   "705"
+  ],
+  "marker": false,
+  "flag": "/flags/si.svg",
+  "unMember": true,
+  "color": 6,
+  "neighbors": [
+   "AUT",
+   "HRV",
+   "HUN",
+   "ITA"
+  ]
+ },
+ {
+  "code": "SLB",
+  "iso2": "SB",
+  "isoNumeric": "090",
+  "name": "Solomon Islands",
+  "officialName": "Solomon Islands",
+  "aliases": [],
+  "continents": [
+   "oceania"
+  ],
+  "subregion": "Melanesia",
+  "capitals": [
+   "Honiara"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -8,
+   159
+  ],
+  "areaKm2": 28896,
+  "featureIds": [
+   "090"
+  ],
+  "marker": false,
+  "flag": "/flags/sb.svg",
+  "unMember": true,
+  "color": 3,
+  "neighbors": []
+ },
+ {
+  "code": "SOM",
+  "iso2": "SO",
+  "isoNumeric": "706",
+  "name": "Somalia",
+  "officialName": "Federal Republic of Somalia",
+  "aliases": [
+   "Federal Republic of Somalia",
+   "aṣ-Ṣūmāl",
+   "Jamhuuriyadda Federaalka Soomaaliya",
+   "Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Eastern Africa",
+  "capitals": [
+   "Mogadishu"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   10,
+   49
+  ],
+  "areaKm2": 637657,
+  "featureIds": [
+   "706",
+   "name:Somaliland"
+  ],
+  "marker": false,
+  "flag": "/flags/so.svg",
+  "unMember": true,
+  "color": 7,
+  "neighbors": [
+   "DJI",
+   "ETH",
+   "KEN"
+  ]
+ },
+ {
+  "code": "ZAF",
+  "iso2": "ZA",
+  "isoNumeric": "710",
+  "name": "South Africa",
+  "officialName": "Republic of South Africa",
+  "aliases": [
+   "Republic of South Africa",
+   "Suid-Afrika"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Southern Africa",
+  "capitals": [
+   "Pretoria",
+   "Cape Town",
+   "Bloemfontein"
+  ],
+  "capitalNote": "South Africa has three capitals: Pretoria (executive), Cape Town (legislative) and Bloemfontein (judicial).",
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -29,
+   24
+  ],
+  "areaKm2": 1221037,
+  "featureIds": [
+   "710"
+  ],
+  "marker": false,
+  "flag": "/flags/za.svg",
+  "unMember": true,
+  "color": 10,
+  "neighbors": [
+   "BWA",
+   "LSO",
+   "MOZ",
+   "NAM",
+   "SWZ",
+   "ZWE"
+  ]
+ },
+ {
+  "code": "KOR",
+  "iso2": "KR",
+  "isoNumeric": "410",
+  "name": "South Korea",
+  "officialName": "Republic of Korea",
+  "aliases": [
+   "Republic of Korea",
+   "Korea, Republic of"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Eastern Asia",
+  "capitals": [
+   "Seoul"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   37,
+   127.5
+  ],
+  "areaKm2": 100210,
+  "featureIds": [
+   "410"
+  ],
+  "marker": false,
+  "flag": "/flags/kr.svg",
+  "unMember": true,
+  "color": 9,
+  "neighbors": [
+   "PRK"
+  ]
+ },
+ {
+  "code": "SSD",
+  "iso2": "SS",
+  "isoNumeric": "728",
+  "name": "South Sudan",
+  "officialName": "Republic of South Sudan",
+  "aliases": [
+   "Republic of South Sudan"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Middle Africa",
+  "capitals": [
+   "Juba"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   7,
+   30
+  ],
+  "areaKm2": 619745,
+  "featureIds": [
+   "728"
+  ],
+  "marker": false,
+  "flag": "/flags/ss.svg",
+  "unMember": true,
+  "color": 1,
+  "neighbors": [
+   "CAF",
+   "COD",
+   "ETH",
+   "KEN",
+   "SDN",
+   "UGA"
+  ]
+ },
+ {
+  "code": "ESP",
+  "iso2": "ES",
+  "isoNumeric": "724",
+  "name": "Spain",
+  "officialName": "Kingdom of Spain",
+  "aliases": [
+   "Kingdom of Spain",
+   "Reino de España"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Southern Europe",
+  "capitals": [
+   "Madrid"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   40,
+   -4
+  ],
+  "areaKm2": 505992,
+  "featureIds": [
+   "724"
+  ],
+  "marker": false,
+  "flag": "/flags/es.svg",
+  "unMember": true,
+  "color": 2,
+  "neighbors": [
+   "AND",
+   "FRA",
+   "PRT"
+  ]
+ },
+ {
+  "code": "LKA",
+  "iso2": "LK",
+  "isoNumeric": "144",
+  "name": "Sri Lanka",
+  "officialName": "Democratic Socialist Republic of Sri Lanka",
+  "aliases": [
+   "Democratic Socialist Republic of Sri Lanka",
+   "ilaṅkai"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Southern Asia",
+  "capitals": [
+   "Sri Jayawardenepura Kotte",
+   "Colombo"
+  ],
+  "capitalNote": "Sri Jayawardenepura Kotte is the legislative capital; Colombo is the executive and commercial capital.",
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   7,
+   81
+  ],
+  "areaKm2": 65610,
+  "featureIds": [
+   "144"
+  ],
+  "marker": false,
+  "flag": "/flags/lk.svg",
+  "unMember": true,
+  "color": 8,
+  "neighbors": []
+ },
+ {
+  "code": "SDN",
+  "iso2": "SD",
+  "isoNumeric": "729",
+  "name": "Sudan",
+  "officialName": "Republic of the Sudan",
+  "aliases": [
+   "Republic of the Sudan",
+   "Jumhūrīyat as-Sūdān"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Northern Africa",
+  "capitals": [
+   "Khartoum"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   15,
+   30
+  ],
+  "areaKm2": 1886068,
+  "featureIds": [
+   "729"
+  ],
+  "marker": false,
+  "flag": "/flags/sd.svg",
+  "unMember": true,
+  "color": 11,
+  "neighbors": [
+   "CAF",
+   "EGY",
+   "ERI",
+   "ETH",
+   "LBY",
+   "SSD",
+   "TCD"
+  ]
+ },
+ {
+  "code": "SUR",
+  "iso2": "SR",
+  "isoNumeric": "740",
+  "name": "Suriname",
+  "officialName": "Republic of Suriname",
+  "aliases": [
+   "Republic of Suriname",
+   "Sarnam",
+   "Sranangron",
+   "Republiek Suriname"
+  ],
+  "continents": [
+   "south-america"
+  ],
+  "subregion": "South America",
+  "capitals": [
+   "Paramaribo"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   4,
+   -56
+  ],
+  "areaKm2": 163820,
+  "featureIds": [
+   "740"
+  ],
+  "marker": false,
+  "flag": "/flags/sr.svg",
+  "unMember": true,
+  "color": 7,
+  "neighbors": [
+   "BRA",
+   "FRA",
+   "GUY"
+  ]
+ },
+ {
+  "code": "SWE",
+  "iso2": "SE",
+  "isoNumeric": "752",
+  "name": "Sweden",
+  "officialName": "Kingdom of Sweden",
+  "aliases": [
+   "Kingdom of Sweden",
+   "Konungariket Sverige"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Northern Europe",
+  "capitals": [
+   "Stockholm"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   62,
+   15
+  ],
+  "areaKm2": 450295,
+  "featureIds": [
+   "752"
+  ],
+  "marker": false,
+  "flag": "/flags/se.svg",
+  "unMember": true,
+  "color": 7,
+  "neighbors": [
+   "FIN",
+   "NOR"
+  ]
+ },
+ {
+  "code": "CHE",
+  "iso2": "CH",
+  "isoNumeric": "756",
+  "name": "Switzerland",
+  "officialName": "Swiss Confederation",
+  "aliases": [
+   "Swiss Confederation",
+   "Schweiz",
+   "Suisse",
+   "Svizzera",
+   "Svizra"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Western Europe",
+  "capitals": [
+   "Bern"
+  ],
+  "capitalNote": "Bern is officially the “federal city” rather than the capital, but it is the seat of government.",
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   47,
+   8
+  ],
+  "areaKm2": 41284,
+  "featureIds": [
+   "756"
+  ],
+  "marker": false,
+  "flag": "/flags/ch.svg",
+  "unMember": true,
+  "color": 7,
+  "neighbors": [
+   "AUT",
+   "DEU",
+   "FRA",
+   "ITA",
+   "LIE"
+  ]
+ },
+ {
+  "code": "SYR",
+  "iso2": "SY",
+  "isoNumeric": "760",
+  "name": "Syria",
+  "officialName": "Syrian Arab Republic",
+  "aliases": [
+   "Syrian Arab Republic",
+   "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Western Asia",
+  "capitals": [
+   "Damascus"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   35,
+   38
+  ],
+  "areaKm2": 185180,
+  "featureIds": [
+   "760"
+  ],
+  "marker": false,
+  "flag": "/flags/sy.svg",
+  "unMember": true,
+  "color": 8,
+  "neighbors": [
+   "IRQ",
+   "ISR",
+   "JOR",
+   "LBN",
+   "TUR"
+  ]
+ },
+ {
+  "code": "TWN",
+  "iso2": "TW",
+  "isoNumeric": "158",
+  "name": "Taiwan",
+  "officialName": "Republic of China (Taiwan)",
+  "aliases": [
+   "Republic of China (Taiwan)",
+   "Táiwān",
+   "Republic of China",
+   "中華民國",
+   "Zhōnghuá Mínguó",
+   "Chinese Taipei"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Eastern Asia",
+  "capitals": [
+   "Taipei"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   23.5,
+   121
+  ],
+  "areaKm2": 36193,
+  "featureIds": [
+   "158"
+  ],
+  "marker": false,
+  "flag": "/flags/tw.svg",
+  "unMember": false,
+  "color": 8,
+  "neighbors": []
+ },
+ {
+  "code": "TJK",
+  "iso2": "TJ",
+  "isoNumeric": "762",
+  "name": "Tajikistan",
+  "officialName": "Republic of Tajikistan",
+  "aliases": [
+   "Republic of Tajikistan",
+   "Toçikiston",
+   "Ҷумҳурии Тоҷикистон",
+   "Çumhuriyi Toçikiston"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Central Asia",
+  "capitals": [
+   "Dushanbe"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   39,
+   71
+  ],
+  "areaKm2": 143100,
+  "featureIds": [
+   "762"
+  ],
+  "marker": false,
+  "flag": "/flags/tj.svg",
+  "unMember": true,
+  "color": 0,
+  "neighbors": [
+   "AFG",
+   "CHN",
+   "KGZ",
+   "UZB"
+  ]
+ },
+ {
+  "code": "TZA",
+  "iso2": "TZ",
+  "isoNumeric": "834",
+  "name": "Tanzania",
+  "officialName": "United Republic of Tanzania",
+  "aliases": [
+   "United Republic of Tanzania",
+   "Tanzania, United Republic of",
+   "Jamhuri ya Muungano wa Tanzania"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Eastern Africa",
+  "capitals": [
+   "Dodoma"
+  ],
+  "capitalNote": "Dodoma is the official capital; Dar es Salaam is the largest city and former capital.",
+  "notDistractor": [
+   "Dar es Salaam"
+  ],
+  "skipReverse": false,
+  "latlng": [
+   -6,
+   35
+  ],
+  "areaKm2": 945087,
+  "featureIds": [
+   "834"
+  ],
+  "marker": false,
+  "flag": "/flags/tz.svg",
+  "unMember": true,
+  "color": 3,
+  "neighbors": [
+   "BDI",
+   "COD",
+   "KEN",
+   "MOZ",
+   "MWI",
+   "RWA",
+   "UGA",
+   "ZMB"
+  ]
+ },
+ {
+  "code": "THA",
+  "iso2": "TH",
+  "isoNumeric": "764",
+  "name": "Thailand",
+  "officialName": "Kingdom of Thailand",
+  "aliases": [
+   "Kingdom of Thailand",
+   "Prathet",
+   "Thai",
+   "ราชอาณาจักรไทย",
+   "Ratcha Anachak Thai"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "South-Eastern Asia",
+  "capitals": [
+   "Bangkok"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   15,
+   100
+  ],
+  "areaKm2": 513120,
+  "featureIds": [
+   "764"
+  ],
+  "marker": false,
+  "flag": "/flags/th.svg",
+  "unMember": true,
+  "color": 8,
+  "neighbors": [
+   "KHM",
+   "LAO",
+   "MMR",
+   "MYS"
+  ]
+ },
+ {
+  "code": "TLS",
+  "iso2": "TL",
+  "isoNumeric": "626",
+  "name": "Timor-Leste",
+  "officialName": "Democratic Republic of Timor-Leste",
+  "aliases": [
+   "Democratic Republic of Timor-Leste",
+   "East Timor",
+   "Timor",
+   "República Democrática de Timor-Leste",
+   "Repúblika Demokrátika Timór-Leste",
+   "Timór Lorosa'e",
+   "Timor Lorosae"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "South-Eastern Asia",
+  "capitals": [
+   "Dili"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -8.83333333,
+   125.91666666
+  ],
+  "areaKm2": 14874,
+  "featureIds": [
+   "626"
+  ],
+  "marker": false,
+  "flag": "/flags/tl.svg",
+  "unMember": true,
+  "color": 6,
+  "neighbors": [
+   "IDN"
+  ]
+ },
+ {
+  "code": "TGO",
+  "iso2": "TG",
+  "isoNumeric": "768",
+  "name": "Togo",
+  "officialName": "Togolese Republic",
+  "aliases": [
+   "Togolese Republic",
+   "Togolese",
+   "République Togolaise"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Western Africa",
+  "capitals": [
+   "Lomé"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   8,
+   1.16666666
+  ],
+  "areaKm2": 56785,
+  "featureIds": [
+   "768"
+  ],
+  "marker": false,
+  "flag": "/flags/tg.svg",
+  "unMember": true,
+  "color": 11,
+  "neighbors": [
+   "BEN",
+   "BFA",
+   "GHA"
+  ]
+ },
+ {
+  "code": "TON",
+  "iso2": "TO",
+  "isoNumeric": "776",
+  "name": "Tonga",
+  "officialName": "Kingdom of Tonga",
+  "aliases": [
+   "Kingdom of Tonga"
+  ],
+  "continents": [
+   "oceania"
+  ],
+  "subregion": "Polynesia",
+  "capitals": [
+   "Nuku'alofa"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -20,
+   -175
+  ],
+  "areaKm2": 747,
+  "featureIds": [
+   "776"
+  ],
+  "marker": true,
+  "flag": "/flags/to.svg",
+  "unMember": true,
+  "color": 5,
+  "neighbors": []
+ },
+ {
+  "code": "TTO",
+  "iso2": "TT",
+  "isoNumeric": "780",
+  "name": "Trinidad and Tobago",
+  "officialName": "Republic of Trinidad and Tobago",
+  "aliases": [
+   "Republic of Trinidad and Tobago"
+  ],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "Caribbean",
+  "capitals": [
+   "Port of Spain"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   11,
+   -61
+  ],
+  "areaKm2": 5130,
+  "featureIds": [
+   "780"
+  ],
+  "marker": false,
+  "flag": "/flags/tt.svg",
+  "unMember": true,
+  "color": 10,
+  "neighbors": []
+ },
+ {
+  "code": "TUN",
+  "iso2": "TN",
+  "isoNumeric": "788",
+  "name": "Tunisia",
+  "officialName": "Tunisian Republic",
+  "aliases": [
+   "Tunisian Republic",
+   "Republic of Tunisia",
+   "al-Jumhūriyyah at-Tūnisiyyah"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Northern Africa",
+  "capitals": [
+   "Tunis"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   34,
+   9
+  ],
+  "areaKm2": 163610,
+  "featureIds": [
+   "788"
+  ],
+  "marker": false,
+  "flag": "/flags/tn.svg",
+  "unMember": true,
+  "color": 10,
+  "neighbors": [
+   "DZA",
+   "LBY"
+  ]
+ },
+ {
+  "code": "TUR",
+  "iso2": "TR",
+  "isoNumeric": "792",
+  "name": "Türkiye",
+  "officialName": "Republic of Türkiye",
+  "aliases": [
+   "Republic of Türkiye",
+   "Turkiye",
+   "Republic of Turkey",
+   "Türkiye Cumhuriyeti"
+  ],
+  "continents": [
+   "europe",
+   "asia"
+  ],
+  "subregion": "Western Asia",
+  "capitals": [
+   "Ankara"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   39,
+   35
+  ],
+  "areaKm2": 783562,
+  "featureIds": [
+   "792"
+  ],
+  "marker": false,
+  "flag": "/flags/tr.svg",
+  "unMember": true,
+  "color": 6,
+  "neighbors": [
+   "ARM",
+   "AZE",
+   "BGR",
+   "GEO",
+   "GRC",
+   "IRN",
+   "IRQ",
+   "SYR"
+  ]
+ },
+ {
+  "code": "TKM",
+  "iso2": "TM",
+  "isoNumeric": "795",
+  "name": "Turkmenistan",
+  "officialName": "Turkmenistan",
+  "aliases": [],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Central Asia",
+  "capitals": [
+   "Ashgabat"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   40,
+   60
+  ],
+  "areaKm2": 488100,
+  "featureIds": [
+   "795"
+  ],
+  "marker": false,
+  "flag": "/flags/tm.svg",
+  "unMember": true,
+  "color": 3,
+  "neighbors": [
+   "AFG",
+   "IRN",
+   "KAZ",
+   "UZB"
+  ]
+ },
+ {
+  "code": "TUV",
+  "iso2": "TV",
+  "isoNumeric": "798",
+  "name": "Tuvalu",
+  "officialName": "Tuvalu",
+  "aliases": [],
+  "continents": [
+   "oceania"
+  ],
+  "subregion": "Polynesia",
+  "capitals": [
+   "Funafuti"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -8,
+   178
+  ],
+  "areaKm2": 26,
+  "featureIds": [],
+  "marker": true,
+  "flag": "/flags/tv.svg",
+  "unMember": true,
+  "color": 2,
+  "neighbors": []
+ },
+ {
+  "code": "UGA",
+  "iso2": "UG",
+  "isoNumeric": "800",
+  "name": "Uganda",
+  "officialName": "Republic of Uganda",
+  "aliases": [
+   "Republic of Uganda",
+   "Jamhuri ya Uganda"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Eastern Africa",
+  "capitals": [
+   "Kampala"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   1,
+   32
+  ],
+  "areaKm2": 241550,
+  "featureIds": [
+   "800"
+  ],
+  "marker": false,
+  "flag": "/flags/ug.svg",
+  "unMember": true,
+  "color": 2,
+  "neighbors": [
+   "COD",
+   "KEN",
+   "RWA",
+   "SSD",
+   "TZA"
+  ]
+ },
+ {
+  "code": "UKR",
+  "iso2": "UA",
+  "isoNumeric": "804",
+  "name": "Ukraine",
+  "officialName": "Ukraine",
+  "aliases": [
+   "Ukrayina"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Eastern Europe",
+  "capitals": [
+   "Kyiv"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   49,
+   32
+  ],
+  "areaKm2": 603500,
+  "featureIds": [
+   "804"
+  ],
+  "marker": false,
+  "flag": "/flags/ua.svg",
+  "unMember": true,
+  "color": 3,
+  "neighbors": [
+   "BLR",
+   "HUN",
+   "MDA",
+   "POL",
+   "ROU",
+   "RUS",
+   "SVK"
+  ]
+ },
+ {
+  "code": "ARE",
+  "iso2": "AE",
+  "isoNumeric": "784",
+  "name": "United Arab Emirates",
+  "officialName": "United Arab Emirates",
+  "aliases": [
+   "Emirates"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Western Asia",
+  "capitals": [
+   "Abu Dhabi"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   24,
+   54
+  ],
+  "areaKm2": 83600,
+  "featureIds": [
+   "784"
+  ],
+  "marker": false,
+  "flag": "/flags/ae.svg",
+  "unMember": true,
+  "color": 2,
+  "neighbors": [
+   "OMN",
+   "SAU"
+  ]
+ },
+ {
+  "code": "GBR",
+  "iso2": "GB",
+  "isoNumeric": "826",
+  "name": "United Kingdom",
+  "officialName": "United Kingdom of Great Britain and Northern Ireland",
+  "aliases": [
+   "United Kingdom of Great Britain and Northern Ireland",
+   "Great Britain"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Northern Europe",
+  "capitals": [
+   "London"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   54,
+   -2
+  ],
+  "areaKm2": 242900,
+  "featureIds": [
+   "826"
+  ],
+  "marker": false,
+  "flag": "/flags/gb.svg",
+  "unMember": true,
+  "color": 5,
+  "neighbors": [
+   "IRL"
+  ]
+ },
+ {
+  "code": "USA",
+  "iso2": "US",
+  "isoNumeric": "840",
+  "name": "United States",
+  "officialName": "United States of America",
+  "aliases": [
+   "United States of America"
+  ],
+  "continents": [
+   "north-america"
+  ],
+  "subregion": "North America",
+  "capitals": [
+   "Washington, D.C."
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   38,
+   -97
+  ],
+  "areaKm2": 9372610,
+  "featureIds": [
+   "840"
+  ],
+  "marker": false,
+  "flag": "/flags/us.svg",
+  "unMember": true,
+  "color": 0,
+  "neighbors": [
+   "CAN",
+   "MEX"
+  ]
+ },
+ {
+  "code": "URY",
+  "iso2": "UY",
+  "isoNumeric": "858",
+  "name": "Uruguay",
+  "officialName": "Oriental Republic of Uruguay",
+  "aliases": [
+   "Oriental Republic of Uruguay",
+   "República Oriental del Uruguay"
+  ],
+  "continents": [
+   "south-america"
+  ],
+  "subregion": "South America",
+  "capitals": [
+   "Montevideo"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -33,
+   -56
+  ],
+  "areaKm2": 181034,
+  "featureIds": [
+   "858"
+  ],
+  "marker": false,
+  "flag": "/flags/uy.svg",
+  "unMember": true,
+  "color": 8,
+  "neighbors": [
+   "ARG",
+   "BRA"
+  ]
+ },
+ {
+  "code": "UZB",
+  "iso2": "UZ",
+  "isoNumeric": "860",
+  "name": "Uzbekistan",
+  "officialName": "Republic of Uzbekistan",
+  "aliases": [
+   "Republic of Uzbekistan",
+   "O‘zbekiston Respublikasi",
+   "Ўзбекистон Республикаси"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Central Asia",
+  "capitals": [
+   "Tashkent"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   41,
+   64
+  ],
+  "areaKm2": 447400,
+  "featureIds": [
+   "860"
+  ],
+  "marker": false,
+  "flag": "/flags/uz.svg",
+  "unMember": true,
+  "color": 10,
+  "neighbors": [
+   "AFG",
+   "KAZ",
+   "KGZ",
+   "TJK",
+   "TKM"
+  ]
+ },
+ {
+  "code": "VUT",
+  "iso2": "VU",
+  "isoNumeric": "548",
+  "name": "Vanuatu",
+  "officialName": "Republic of Vanuatu",
+  "aliases": [
+   "Republic of Vanuatu",
+   "Ripablik blong Vanuatu",
+   "République de Vanuatu"
+  ],
+  "continents": [
+   "oceania"
+  ],
+  "subregion": "Melanesia",
+  "capitals": [
+   "Port Vila"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -16,
+   167
+  ],
+  "areaKm2": 12189,
+  "featureIds": [
+   "548"
+  ],
+  "marker": false,
+  "flag": "/flags/vu.svg",
+  "unMember": true,
+  "color": 3,
+  "neighbors": []
+ },
+ {
+  "code": "VAT",
+  "iso2": "VA",
+  "isoNumeric": "336",
+  "name": "Vatican City",
+  "officialName": "Vatican City State",
+  "aliases": [
+   "Vatican City State",
+   "Holy See (Vatican City State)",
+   "Vatican",
+   "Stato della Città del Vaticano"
+  ],
+  "continents": [
+   "europe"
+  ],
+  "subregion": "Southern Europe",
+  "capitals": [
+   "Vatican City"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   41.9,
+   12.45
+  ],
+  "areaKm2": 0.44,
+  "featureIds": [
+   "336"
+  ],
+  "marker": true,
+  "flag": "/flags/va.svg",
+  "unMember": false,
+  "color": 10,
+  "neighbors": [
+   "ITA"
+  ]
+ },
+ {
+  "code": "VEN",
+  "iso2": "VE",
+  "isoNumeric": "862",
+  "name": "Venezuela",
+  "officialName": "Bolivarian Republic of Venezuela",
+  "aliases": [
+   "Bolivarian Republic of Venezuela",
+   "Venezuela, Bolivarian Republic of",
+   "República Bolivariana de Venezuela"
+  ],
+  "continents": [
+   "south-america"
+  ],
+  "subregion": "South America",
+  "capitals": [
+   "Caracas"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   8,
+   -66
+  ],
+  "areaKm2": 916445,
+  "featureIds": [
+   "862"
+  ],
+  "marker": false,
+  "flag": "/flags/ve.svg",
+  "unMember": true,
+  "color": 0,
+  "neighbors": [
+   "BRA",
+   "COL",
+   "GUY"
+  ]
+ },
+ {
+  "code": "VNM",
+  "iso2": "VN",
+  "isoNumeric": "704",
+  "name": "Vietnam",
+  "officialName": "Socialist Republic of Vietnam",
+  "aliases": [
+   "Socialist Republic of Vietnam",
+   "Cộng hòa Xã hội chủ nghĩa Việt Nam",
+   "Viet Nam"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "South-Eastern Asia",
+  "capitals": [
+   "Hanoi"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   16.16666666,
+   107.83333333
+  ],
+  "areaKm2": 331212,
+  "featureIds": [
+   "704"
+  ],
+  "marker": false,
+  "flag": "/flags/vn.svg",
+  "unMember": true,
+  "color": 1,
+  "neighbors": [
+   "CHN",
+   "KHM",
+   "LAO"
+  ]
+ },
+ {
+  "code": "YEM",
+  "iso2": "YE",
+  "isoNumeric": "887",
+  "name": "Yemen",
+  "officialName": "Republic of Yemen",
+  "aliases": [
+   "Republic of Yemen",
+   "Yemeni Republic",
+   "al-Jumhūriyyah al-Yamaniyyah"
+  ],
+  "continents": [
+   "asia"
+  ],
+  "subregion": "Western Asia",
+  "capitals": [
+   "Sana'a"
+  ],
+  "capitalNote": "Sana'a is the constitutional capital; the recognised government has operated from Aden.",
+  "notDistractor": [
+   "Aden"
+  ],
+  "skipReverse": false,
+  "latlng": [
+   15,
+   48
+  ],
+  "areaKm2": 527968,
+  "featureIds": [
+   "887"
+  ],
+  "marker": false,
+  "flag": "/flags/ye.svg",
+  "unMember": true,
+  "color": 11,
+  "neighbors": [
+   "OMN",
+   "SAU"
+  ]
+ },
+ {
+  "code": "ZMB",
+  "iso2": "ZM",
+  "isoNumeric": "894",
+  "name": "Zambia",
+  "officialName": "Republic of Zambia",
+  "aliases": [
+   "Republic of Zambia"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Eastern Africa",
+  "capitals": [
+   "Lusaka"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -15,
+   30
+  ],
+  "areaKm2": 752612,
+  "featureIds": [
+   "894"
+  ],
+  "marker": false,
+  "flag": "/flags/zm.svg",
+  "unMember": true,
+  "color": 2,
+  "neighbors": [
+   "AGO",
+   "COD",
+   "MOZ",
+   "MWI",
+   "NAM",
+   "TZA",
+   "ZWE"
+  ]
+ },
+ {
+  "code": "ZWE",
+  "iso2": "ZW",
+  "isoNumeric": "716",
+  "name": "Zimbabwe",
+  "officialName": "Republic of Zimbabwe",
+  "aliases": [
+   "Republic of Zimbabwe"
+  ],
+  "continents": [
+   "africa"
+  ],
+  "subregion": "Eastern Africa",
+  "capitals": [
+   "Harare"
+  ],
+  "capitalNote": null,
+  "notDistractor": [],
+  "skipReverse": false,
+  "latlng": [
+   -20,
+   30
+  ],
+  "areaKm2": 390757,
+  "featureIds": [
+   "716"
+  ],
+  "marker": false,
+  "flag": "/flags/zw.svg",
+  "unMember": true,
+  "color": 5,
+  "neighbors": [
+   "BWA",
+   "MOZ",
+   "ZAF",
+   "ZMB"
+  ]
+ }
+]

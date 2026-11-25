@@ -1,0 +1,138 @@
+/* ---------- homepage teaser ---------- */
+.teaser {
+  margin-top: 28px;
+  display: flex;
+  align-items: center;
+  gap: 18px 24px;
+  flex-wrap: wrap;
+  padding: 18px 24px;
+  border: 2px dashed var(--ink);
+  border-radius: var(--radius-l);
+  background: var(--card);
+}
+.teaserText {
+  flex: 1 1 300px;
+  min-width: 0;
+}
+.teaserTitle {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px 12px;
+  font-size: 26px;
+}
+.teaserText p {
+  margin-top: 4px;
+  font-weight: 600;
+}
+.soon,
+.soon:global(.caption) {
+  padding: 4px 10px;
+  border: var(--line);
+  border-radius: 999px;
+  background: var(--butter);
+  color: var(--ink);
+}
+
+.avatars {
+  display: flex;
+  flex: none;
+}
+.avatar {
+  width: 46px;
+  height: 46px;
+  display: grid;
+  place-items: center;
+  border: var(--line);
+  border-radius: 999px;
+  font-family: var(--font-brand);
+  font-weight: 800;
+  font-size: 18px;
+  color: var(--ink);
+}
+.avatar + .avatar {
+  margin-left: -12px;
+}
+.more {
+  border-style: dashed;
+  background: var(--card);
+}
+
+/* ---------- coming-soon card ---------- */
+.dialog {
+  border: 2.5px solid var(--ink);
+  border-radius: 22px;
+  padding: 0;
+  width: min(460px, calc(100vw - 32px));
+  background: var(--card);
+  color: var(--ink);
+  box-shadow: inset 0 0 0 6px var(--card), inset 0 0 0 7.5px var(--ink), var(--shadow-l);
+}
+.dialog::backdrop {
+  background: rgba(59, 51, 85, 0.35);
+  backdrop-filter: blur(2px);
+}
+.dialogBody {
+  padding: 30px 28px 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  text-align: center;
+}
+.note {
+  margin-top: 6px;
+  font-size: 26px;
+  color: var(--coral-ink);
+  transform: rotate(-2deg);
+}
+.dialogTitle {
+  font-size: 34px;
+}
+.lede {
+  font-weight: 600;
+}
+.steps {
+  margin: 4px 0 10px;
+  padding: 0;
+  list-style: none;
+  counter-reset: step;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: left;
+}
+.steps li {
+  counter-increment: step;
+  position: relative;
+  padding: 10px 14px 10px 50px;
+  border: 1.5px dashed var(--rule);
+  border-radius: 14px;
+  font-weight: 600;
+}
+.steps li::before {
+  content: counter(step);
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  width: 26px;
+  height: 26px;
+  margin-top: -13px;
+  display: grid;
+  place-items: center;
+  border: var(--line);
+  border-radius: 999px;
+  background: var(--butter);
+  font-family: var(--font-brand);
+  font-weight: 800;
+  font-size: 14px;
+}
+
+@media (max-width: 480px) {
+  .teaser {
+    padding: 16px;
+  }
+  .teaser button {
+    width: 100%;
+  }
+}

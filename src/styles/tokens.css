@@ -1,0 +1,76 @@
+/* Atlas Social Club design tokens.
+   Pastel voyage: paper, plum ink, one pastel per continent, coral for action. */
+:root {
+  /* paper & ink */
+  --paper: #fbf3e4;
+  --paper-deep: #f5e8d0;
+  --card: #fffbf3;
+  --sea: #f8efdf;
+  /* the game map: watercolour sea, cream countries to find, sage neighbours */
+  --game-sea: #cfe3ec;
+  --game-wash-deep: #b6d3e3;
+  --game-wash-light: #e4f0f3;
+  --game-wave: #8fb3cc;
+  --game-land: #fbf3e1;
+  --game-border: #d9c6a2;
+  --game-neighbour: #d6e2b8;
+  --game-neighbour-edge: #c3d3a0;
+  --game-frame: #c6d4a6; /* soft sage outline round the game map */
+  --game-title: #4a6352;
+  --ink: #3b3355;
+  --ink-soft: #6a6283; /* 5.2:1 on paper */
+  --rule: #d9c7a6;
+
+  /* continent pastels */
+  --blush: #f4b3b0; /* Asia */
+  --periwinkle: #afc4e2; /* Europe */
+  --mint: #b9d7a8; /* North America */
+  --butter: #f9de9c; /* Africa */
+  --apricot: #f7c99a; /* South America */
+  --lilac: #cdbfe6; /* Oceania */
+
+  /* accents & feedback */
+  --coral: #ee8c7a; /* primary action */
+  --coral-ink: #a84a38; /* 5.2:1 on paper, passes WCAG AA for small text */
+  --lagoon: #7cc7b2; /* correct */
+  --lagoon-ink: #2f6f5e; /* 5.3:1 on paper */
+  --sunshine: #f2c14e; /* stars, streaks */
+  --wave: #9dbbcb;
+  --ocean-label: #5d7f92;
+
+  /* type */
+  --font-display: 'Fraunces Variable', 'Fraunces', Georgia, 'Times New Roman', serif;
+  /* bold modern sans for the wordmark and the hero headline */
+  --font-brand: 'Figtree Variable', 'Figtree', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-body: 'Nunito Variable', 'Nunito', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-hand: 'Caveat Variable', 'Caveat', 'Comic Sans MS', cursive;
+  --display-axes: 'SOFT' 100, 'WONK' 1;
+
+  /* shape */
+  --radius-s: 12px;
+  --radius-m: 18px;
+  --radius-l: 24px;
+  --line: 2px solid var(--ink);
+  --shadow-s: 3px 3px 0 var(--ink);
+  --shadow-m: 4px 4px 0 var(--ink);
+  --shadow-l: 6px 6px 0 var(--ink);
+  /* double-rule vintage frame: outer line, paper gap, inner hairline */
+  --frame-rule: inset 0 0 0 6px var(--frame-gap, var(--paper)), inset 0 0 0 7.5px var(--ink);
+
+  /* motion */
+  --ease-out: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --ease-bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --dur-fast: 120ms;
+  --dur: 220ms;
+
+  /* layout */
+  --page-max: 1240px;
+  --gutter: clamp(16px, 4vw, 40px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur-fast: 0ms;
+    --dur: 0ms;
+  }
+}

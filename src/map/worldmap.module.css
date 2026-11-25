@@ -1,0 +1,254 @@
+.map {
+  display: block;
+  width: 100%;
+  height: 100%;
+  touch-action: none;
+  user-select: none;
+  -webkit-user-select: none;
+  cursor: grab;
+}
+.map:active {
+  cursor: grabbing;
+}
+
+.sea {
+  fill: var(--game-sea);
+}
+
+.shape {
+  fill: var(--game-land);
+  stroke: var(--game-border);
+  stroke-width: 0.8;
+  stroke-linejoin: round;
+  vector-effect: non-scaling-stroke;
+  cursor: pointer;
+  transition: fill 260ms var(--ease-out);
+}
+.shape[data-look='idle']:hover {
+  fill: #f3e4c4;
+}
+.shape[data-look='dim'] {
+  fill: var(--game-neighbour);
+  stroke: var(--game-neighbour-edge);
+  stroke-width: 0.6;
+  pointer-events: none;
+  cursor: default;
+}
+.shape[data-look='found'] {
+  stroke: #9c8d70;
+}
+.shape[data-look='just-found'] {
+  stroke: var(--ink);
+  stroke-width: 2.4;
+  animation: found 900ms var(--ease-out);
+}
+.shape[data-look='wrong'] {
+  fill: var(--blush);
+  stroke: var(--ink);
+  stroke-width: 1.8;
+  stroke-dasharray: 4 3;
+  animation: wrong 700ms var(--ease-out);
+}
+.shape[data-look='revealed'] {
+  fill: #f7c4b5;
+  stroke: var(--coral-ink);
+  stroke-width: 2.6;
+  animation: reveal 1.4s ease-in-out infinite;
+}
+
+@keyframes found {
+  0% { fill: #fffbf3; stroke-width: 6; }
+  40% { stroke-width: 3.5; }
+}
+@keyframes wrong {
+  0%, 100% { fill-opacity: 1; }
+  25%, 75% { fill-opacity: 0.45; }
+}
+@keyframes reveal {
+  0%, 100% { stroke-width: 2.6; fill-opacity: 1; }
+  50% { stroke-width: 5; fill-opacity: 0.6; }
+}
+
+/* maps that are only for looking at (e.g. the passport atlas) */
+.viewOnly .shape,
+.viewOnly .marker {
+  cursor: inherit;
+}
+.viewOnly .shape[data-look='idle']:hover {
+  fill: var(--game-land);
+}
+
+/* watercolour decorations: under the countries, never in the way of a tap */
+.decor {
+  pointer-events: none;
+}
+.decorWave {
+  fill: none;
+  stroke: var(--game-wave);
+  stroke-width: 2;
+  stroke-linecap: round;
+  vector-effect: non-scaling-stroke;
+}
+.decorCloud {
+  fill: #fff;
+  opacity: 0.85;
+}
+.boatHull {
+  fill: #7b9fc4;
+}
+.boatSail {
+  fill: #fffaf0;
+}
+.boatFlag {
+  fill: #f2b5a8;
+}
+.boatLine {
+  stroke: #4d6a8c;
+  stroke-width: 1.5;
+  vector-effect: non-scaling-stroke;
+}
+.whale {
+  fill: #7c9cc0;
+}
+.whaleEye {
+  fill: #2f3b55;
+}
+/* on a view-only map, tiny countries only show once they're found */
+.viewOnly .marker[data-look='idle'] {
+  display: none;
+}
+
+/* tap markers for tiny countries */
+.marker {
+  cursor: pointer;
+}
+.markerHit {
+  fill: transparent;
+}
+.markerDot {
+  fill: var(--card);
+  stroke: var(--ink);
+  stroke-width: 1.6;
+  vector-effect: non-scaling-stroke;
+  transition: fill 260ms var(--ease-out);
+}
+.marker:hover .markerDot {
+  fill: #f3e4c4;
+}
+.marker[data-look='just-found'] .markerDot {
+  stroke-width: 2.6;
+}
+.marker[data-look='wrong'] .markerDot {
+  fill: var(--blush);
+}
+.marker[data-look='revealed'] .markerDot {
+  fill: var(--coral);
+  stroke-width: 2.6;
+  animation: reveal 1.4s ease-in-out infinite;
+}
+
+/* names on found countries */
+.labels {
+  pointer-events: none;
+}
+.label {
+  /* an atlas-style serif: Fraunces in its plain cut (not the soft, wonky one
+     used for headings), gently spaced, in a soft slate with a paper halo */
+  font-family: var(--font-display);
+  font-variation-settings: 'SOFT' 0, 'WONK' 0;
+  font-weight: 600;
+  font-size: 12.5px;
+  letter-spacing: 0.03em;
+  text-anchor: middle;
+  fill: #4c5866;
+  paint-order: stroke;
+  stroke: rgba(255, 251, 243, 0.9);
+  stroke-width: 3.5px;
+  stroke-linejoin: round;
+}
+
+/* pinned tag on the country just found */
+.tagLayer {
+  pointer-events: none;
+}
+.tagPop {
+  transform-box: fill-box;
+  transform-origin: 50% 100%;
+  animation: tagPop 420ms var(--ease-bounce);
+}
+.tagString {
+  stroke: var(--ink);
+  stroke-width: 2;
+}
+.tagPin {
+  fill: var(--coral);
+  stroke: var(--ink);
+  stroke-width: 1.5;
+}
+.tagBox {
+  stroke: var(--ink);
+  stroke-width: 2;
+  filter: drop-shadow(2px 2px 0 var(--ink));
+}
+.tagText {
+  font-family: var(--font-display);
+  font-variation-settings: 'SOFT' 0, 'WONK' 0;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  font-size: 18px;
+  text-anchor: middle;
+  fill: var(--ink);
+}
+@keyframes tagPop {
+  0% { transform: scale(0.2) translateY(10px); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .shape,
+  .markerDot,
+  .tagPop {
+    animation: none !important;
+    transition: none;
+  }
+}
+
+/* keyboard play */
+.map:focus {
+  outline: none;
+}
+.map:focus-visible {
+  outline: 3px solid var(--coral);
+  outline-offset: -3px;
+}
+.focusRing {
+  pointer-events: none;
+}
+.focusRing path,
+.focusRing circle {
+  fill: rgba(238, 140, 122, 0.25);
+  stroke: var(--coral-ink);
+  stroke-width: 3;
+  stroke-dasharray: 6 4;
+  vector-effect: non-scaling-stroke;
+  animation: ring 1.4s linear infinite;
+}
+@keyframes ring {
+  to { stroke-dashoffset: -20; }
+}
+.srOnly {
+  overflow: hidden;
+}
+.srOnly p {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+}
+@media (prefers-reduced-motion: reduce) {
+  .focusRing path,
+  .focusRing circle {
+    animation: none;
+  }
+}

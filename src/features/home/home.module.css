@@ -1,0 +1,501 @@
+/* ---------- the horizon: dare on the left, the world on the right ---------- */
+.home {
+  overflow-x: clip;
+}
+.horizon {
+  position: relative;
+}
+/* the dare always paints above the map */
+.horizon > :global(.page) {
+  position: relative;
+  z-index: 1;
+}
+.hero {
+  text-align: center;
+  padding: clamp(24px, 5vw, 56px) 0 36px;
+}
+.ahoy {
+  font-size: 28px;
+  color: var(--coral-ink);
+  transform: rotate(-2deg);
+  animation: bob 4s var(--ease-out) infinite;
+}
+.title {
+  margin-top: 6px;
+  font-size: clamp(46px, 8vw, 96px);
+  line-height: 0.96;
+}
+.dareName {
+  overflow-wrap: anywhere;
+}
+/* keeps the soft italic serif even though the headline above is Figtree */
+.dareSub {
+  font-family: var(--font-display);
+  font-variation-settings: var(--display-axes);
+  display: block;
+  margin-top: 0.36em;
+  font-size: 0.46em;
+  font-weight: 600;
+  font-style: italic;
+  color: var(--ink-soft);
+  letter-spacing: 0;
+}
+.lede {
+  margin: 22px auto 0;
+  max-width: 560px;
+  font-size: 19px;
+}
+.heroActions {
+  display: flex;
+  gap: 14px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 28px;
+}
+
+@keyframes bob {
+  0%, 100% { transform: rotate(-2deg) translateY(0); }
+  50% { transform: rotate(-2deg) translateY(-3px); }
+}
+
+/* the map, unframed, straight on the paper */
+.poster {
+  position: relative;
+  width: min(100% - 2 * var(--gutter), 1000px);
+  margin: 8px auto 0;
+}
+.posterInner {
+  position: relative;
+}
+.posterImg {
+  width: 100%;
+  height: auto;
+}
+.route {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+.route > path {
+  fill: none;
+  stroke: var(--ink);
+  stroke-width: 2.5;
+  stroke-dasharray: 2 8;
+  stroke-linecap: round;
+  animation: march 30s linear infinite;
+}
+.pin path,
+.pin circle {
+  stroke: var(--ink);
+  stroke-width: 2.2;
+}
+@keyframes march {
+  to { stroke-dashoffset: -200; }
+}
+.flightPath,
+.balloon {
+  display: none;
+}
+
+/* wide screens: the hero moves left and the map spreads out behind it,
+   running off the right edge of the page */
+@media (min-width: 1000px) {
+  .horizon {
+    min-height: calc(min(68vw, 1180px) * 0.517 + 40px);
+  }
+  .hero {
+    text-align: left;
+    width: min(600px, 50vw);
+    padding: clamp(40px, 6vw, 84px) 0 40px;
+  }
+  .title {
+    font-size: clamp(56px, 5.6vw, 80px);
+  }
+  .lede {
+    margin-left: 0;
+    max-width: min(480px, 34vw);
+  }
+  .heroActions {
+    justify-content: flex-start;
+  }
+  .poster {
+    position: absolute;
+    top: 8px;
+    /* fully on screen: pinned to the right edge of the window */
+    right: max(16px, calc((100% - 1560px) / 2));
+    width: min(68vw, 1180px);
+    margin: 0;
+  }
+  .flightPath {
+    display: block;
+    position: absolute;
+    left: -21%;
+    top: -2%;
+    width: 22%;
+    overflow: visible;
+  }
+  .flightPath > path:first-child {
+    fill: none;
+    stroke: var(--wave);
+    stroke-width: 2.5;
+    stroke-dasharray: 2 9;
+    stroke-linecap: round;
+  }
+  .plane {
+    fill: var(--card);
+    stroke: var(--ink);
+    stroke-width: 2;
+    stroke-linejoin: round;
+  }
+  .balloon {
+    display: block;
+    position: absolute;
+    left: 77%;
+    top: 54%;
+    width: 64px;
+    stroke: var(--ink);
+    stroke-width: 2;
+    animation: drift 7s ease-in-out infinite;
+  }
+}
+@keyframes drift {
+  0%, 100% { transform: translateY(0) rotate(-2deg); }
+  50% { transform: translateY(-10px) rotate(2deg); }
+}
+
+/* ---------- clouds behind the game cards ---------- */
+.cloudBank {
+  position: relative;
+  margin-top: 24px;
+}
+.cloudBank > :global(.page) {
+  position: relative;
+  z-index: 1;
+}
+.cloudLeft,
+.cloudRight {
+  position: absolute;
+  bottom: -70px;
+  width: clamp(220px, 32vw, 460px);
+  fill: var(--card);
+  stroke: #eadcc2;
+  stroke-width: 2;
+}
+.cloudLeft {
+  left: -40px;
+}
+.cloudRight {
+  right: -40px;
+  transform: scaleX(-1);
+}
+
+/* ---------- hills along the bottom ---------- */
+.hills {
+  position: relative;
+  height: clamp(120px, 16vw, 230px);
+  margin-top: 64px;
+  margin-bottom: -88px; /* the footer sits right under them */
+}
+.hillLayers {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+.trees {
+  position: absolute;
+  fill: #7db08a;
+  stroke: var(--ink);
+  stroke-width: 1.6;
+  width: clamp(34px, 4vw, 60px);
+}
+.treesLeft {
+  left: 8%;
+  top: 27%;
+}
+.treesRight {
+  right: 11%;
+  top: 14%;
+  width: clamp(20px, 2.4vw, 34px);
+}
+.boat {
+  position: absolute;
+  left: 48%;
+  bottom: 4%;
+  width: clamp(30px, 3.4vw, 48px);
+  stroke: var(--ink);
+  stroke-width: 1.8;
+  animation: rock 5s ease-in-out infinite;
+}
+@keyframes rock {
+  0%, 100% { transform: rotate(-3deg); }
+  50% { transform: rotate(3deg); }
+}
+.motto {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 46%;
+  text-align: center;
+  font-size: clamp(22px, 2.4vw, 30px);
+  color: var(--ink);
+}
+
+/* ---------- games ---------- */
+.games {
+  padding-top: 72px;
+}
+.sectionHead {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.sectionTitle {
+  margin-top: 8px;
+  font-size: clamp(34px, 4.5vw, 46px);
+}
+.gameGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 28px;
+}
+.gameCard {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 26px;
+  border: var(--line);
+  border-radius: var(--radius-l);
+  box-shadow: var(--shadow-l);
+  text-decoration: none;
+  transition: transform var(--dur) var(--ease-bounce), box-shadow var(--dur) var(--ease-out);
+}
+.gameCard:hover {
+  transform: translate(-2px, -4px) rotate(-0.6deg);
+  box-shadow: 8px 10px 0 var(--ink);
+}
+.gameCard:active {
+  transform: translate(4px, 4px);
+  box-shadow: 2px 2px 0 var(--ink);
+}
+.gameTop {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.gameIcon {
+  width: 84px;
+  height: 84px;
+  display: grid;
+  place-items: center;
+  border-radius: 999px;
+  border: var(--line);
+  background: var(--card);
+}
+.gameTag {
+  color: var(--ink);
+  background: var(--card);
+  border: var(--line);
+  border-radius: 999px;
+  padding: 5px 10px;
+}
+.gameTitle {
+  font-size: 34px;
+}
+.gameText {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.5;
+  flex: 1;
+}
+.gameFoot {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  font-weight: 800;
+}
+.play {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* ---------- daily + passport ---------- */
+.twoUp {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 28px;
+  padding-top: 80px;
+}
+.daily {
+  flex: 999 1 520px;
+  min-width: 0;
+  background: var(--card);
+  padding: clamp(24px, 4vw, 40px);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.dailyHead {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+}
+.dailyTitle {
+  margin-top: 10px;
+  font-size: clamp(30px, 3.6vw, 42px);
+  line-height: 1.05;
+}
+.dailyRoute {
+  width: 100%;
+  height: auto;
+  overflow: visible;
+}
+.dailyRoute path {
+  fill: none;
+  stroke: var(--ink);
+  stroke-width: 2.5;
+  stroke-dasharray: 2 8;
+  stroke-linecap: round;
+}
+.dailyRoute circle {
+  stroke: var(--ink);
+  stroke-width: 2.5;
+}
+.dailyRoute text {
+  font-family: var(--font-display);
+  font-variation-settings: var(--display-axes);
+  font-weight: 800;
+  font-size: 17px;
+  fill: var(--ink);
+}
+.stopKey {
+  display: flex;
+  gap: 18px;
+  list-style: none;
+  margin: -6px 0 0;
+  padding: 0;
+  font-size: 14px;
+  font-weight: 700;
+}
+.stopKey li {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.stopKey span {
+  width: 14px;
+  height: 14px;
+  border-radius: 999px;
+  border: 2px solid var(--ink);
+}
+.dailyFoot {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.dailyNote {
+  font-size: 24px;
+}
+
+.passport {
+  flex: 1 1 340px;
+  background: var(--card);
+  padding: 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+.passportHead {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.passportTitle {
+  font-size: 28px;
+}
+.textLink {
+  font-weight: 800;
+  font-size: 15px;
+}
+.levelRow {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 800;
+  font-size: 15px;
+}
+.xpBar {
+  height: 14px;
+  margin-top: 8px;
+  border: var(--line);
+  border-radius: 999px;
+  background: var(--paper);
+  overflow: hidden;
+}
+.xpBar > div {
+  height: 100%;
+  background: repeating-linear-gradient(-45deg, var(--sunshine) 0 8px, #f6d27a 8px 16px);
+  transition: width 600ms var(--ease-out);
+}
+.stamps {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px 10px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.stamps li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.regionStamp {
+  width: 62px;
+  height: 62px;
+  display: grid;
+  place-items: center;
+  border-radius: 999px;
+  border: var(--line);
+  font-size: 22px;
+}
+.regionStamp[data-empty='true'] {
+  border-style: dashed;
+  background: var(--paper);
+  color: var(--ink-soft);
+}
+.regionName {
+  margin-top: 6px;
+  font-size: 13px;
+  font-weight: 800;
+}
+.regionTotal {
+  font-size: 12px;
+  color: var(--ink-soft);
+  font-weight: 700;
+}
+.passportNote {
+  font-size: 24px;
+  text-align: center;
+  color: var(--coral-ink);
+  transform: rotate(-2deg);
+}
+
+@media (max-width: 560px) {
+  .dailyHead > :last-child {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ahoy,
+  .route > path,
+  .balloon,
+  .boat {
+    animation: none;
+  }
+}
